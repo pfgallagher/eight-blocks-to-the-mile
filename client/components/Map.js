@@ -1,6 +1,13 @@
-import { Map as LeafletMap, TileLayer, Marker, Popup } from "react-leaflet";
+import {
+	Map as LeafletMap,
+	GeoJSON,
+	TileLayer,
+	Marker,
+	Popup,
+} from "react-leaflet";
 import React, { Component } from "react";
-// import ReactDOM from "react-dom";
+import { connect } from "react-redux";
+
 class Map extends Component {
 	constructor() {
 		super();
@@ -13,20 +20,34 @@ class Map extends Component {
 
 	render() {
 		const position = [this.state.lat, this.state.lng];
-		return (
+		return this.props.communityAreas.features ? (
 			<LeafletMap center={position} zoom={this.state.zoom}>
 				<TileLayer
 					attribution="&copy; <a href=&quot;https://www.openstreetmap.org/copyright&quot;>OpenStreetMap</a> contributors &copy; <a href=&quot;https://carto.com/attributions&quot;>CARTO</a>"
 					url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png"
 				/>
+				<GeoJSON
+					data={this.props.communityAreas}
+					onEachFeature={(feature, layer) =>
+						layer.bindTooltip(feature.properties.community, {
+							permanent: true,
+						})
+					}
+				/>{" "}
 				{/* <Marker position={position}>
-					<Popup>
-						A pretty CSS3 popup. <br /> Easily customizable.
-					</Popup>
-				</Marker> */}
+									<Popup>
+										A pretty CSS3 popup. <br /> Easily customizable.
+									</Popup>
+								</Marker> */}{" "}
 			</LeafletMap>
+		) : (
+			""
 		);
 	}
 }
 
-export default Map;
+const mapStateToProps = (state, ownProps) => ({
+	communityAreas: state.map,
+});
+
+export default connect(mapStateToProps)(Map);
