@@ -10,7 +10,7 @@ const getGeoJSON = GEOJSON => ({
 
 export const fetchGEOJSON = () => async dispatch => {
 	try {
-		const { data } = await Axios.get("/communityAreas.geojson");
+		const { data } = await Axios.get("/neighborhoods.geojson");
 		dispatch(getGeoJSON(data));
 	} catch (err) {
 		console.error(err);
