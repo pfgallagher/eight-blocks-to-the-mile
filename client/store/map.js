@@ -1,24 +1,58 @@
 import Axios from "axios";
-const initialState = {};
 
+// Action Types
 const GET_GEOJSON = "GET_GEOJSON";
+const ADD_LAYER = "ADD_LAYER";
 
-const getGeoJSON = GEOJSON => ({
+// Action Creators
+const getGEOJSON = layer => ({
 	type: GET_GEOJSON,
-	GEOJSON,
+	layer,
 });
 
-export const fetchGEOJSON = () => async dispatch => {
+const addLayer = layer => ({
+	type: ADD_LAYER,
+	layer,
+});
+
+// Thunks
+export const fetchGEOJSON = layerName => async dispatch => {
 	try {
-		const { data } = await Axios.get("/neighborhoods.geojson");
-		dispatch(getGeoJSON(data));
+		const { data } = await Axios.get(`/api/layers/${layerName}`);
+		dispatch(getGEOJSON(data));
 	} catch (err) {
 		console.error(err);
 	}
 };
+// Reducer
+const initialState = {
+	fetchedLayers: [],
+	selectedLayers: [],
+};
 
 const dispatchers = {
-	[GET_GEOJSON]: (state, action) => action.GEOJSON,
+	[GET_GEOJSON]: (state, action) => ({
+		...state,
+		fetchedLayers: [...state.fetchedLayers, action.layer],
+	}),
+	[ADD_LAYER]: (state, action) => {
+		if (action.layer.name in state.fetchedLayers)
+			return {
+				...state,
+				selectedLayers: [
+					...state.selectedLayers,
+					state.fetchedLayers[action.layer.name],
+				],
+			};
+		fetchGEOJSON(action.layer.name);
+		return {
+			...state,
+			selectedLayers: [
+				...state.selectedLayers,
+				state.fetchedLayers[action.layer.name],
+			],
+		};
+	},
 };
 
 export default (state = initialState, action) => {

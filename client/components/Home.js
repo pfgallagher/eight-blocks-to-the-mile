@@ -5,7 +5,7 @@ import { fetchGEOJSON } from "./../store/map";
 import { connect } from "react-redux";
 class Home extends Component {
 	componentDidMount() {
-		this.props.fetchGEOJSON();
+		this.props.fetchGEOJSON("neighborhoods");
 	}
 	render() {
 		return (
@@ -17,8 +17,8 @@ class Home extends Component {
 }
 
 const mapDispatchToProps = (dispatch, ownProps) => ({
-	fetchGEOJSON: () => {
-		dispatch(fetchGEOJSON());
+	fetchGEOJSON: layerName => {
+		dispatch(fetchGEOJSON(layerName));
 	},
 });
 
