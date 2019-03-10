@@ -5,7 +5,6 @@ import Routes from "./routes";
 
 const App = () => (
 	<div>
-		<Navbar />
 		<Routes />
 	</div>
 );

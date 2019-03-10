@@ -4,7 +4,7 @@ const db = require("../server/db");
 const { Layer } = require("../server/db/models");
 
 const neighborhoods = require("./../server/db/data/neighborhoods.json");
-const majorStreets = require("./../server/db/data/allChicagoStreets.json");
+const presidentialStreets = require("./../server/db/data/presidentialStreets.json");
 
 async function seed() {
 	await db.sync({
@@ -18,8 +18,8 @@ async function seed() {
 	});
 
 	await Layer.create({
-		name: "majorStreets",
-		data: majorStreets,
+		name: "presidentialStreets",
+		data: presidentialStreets,
 	});
 	console.log(`seeded successfully`);
 }
