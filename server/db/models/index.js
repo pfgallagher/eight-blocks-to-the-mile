@@ -1,4 +1,3 @@
-const User = require("./user");
 const Layer = require("./layers");
 
 /**
@@ -15,6 +14,5 @@ const Layer = require("./layers");
  * instead of: const User = require('../db/models/user')
  */
 module.exports = {
-	User,
 	Layer,
 };

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import { connect } from "react-redux";
 import Map from "./Map";
 import { fetchGEOJSON } from "./../store/map";
 import { connect } from "react-redux";

@@ -1,7 +1,7 @@
 "use strict";
 
 const db = require("../server/db");
-const { User, Layer } = require("../server/db/models");
+const { Layer } = require("../server/db/models");
 
 const neighborhoods = require("./../server/db/data/neighborhoods.json");
 const majorStreets = require("./../server/db/data/allChicagoStreets.json");
@@ -12,17 +12,6 @@ async function seed() {
 	});
 	console.log("db synced!");
 
-	const users = await Promise.all([
-		User.create({
-			email: "cody@email.com",
-			password: "123",
-		}),
-		User.create({
-			email: "murphy@email.com",
-			password: "123",
-		}),
-	]);
-
 	await Layer.create({
 		name: "neighborhoods",
 		data: neighborhoods,
@@ -32,8 +21,6 @@ async function seed() {
 		name: "majorStreets",
 		data: majorStreets,
 	});
-
-	console.log(`seeded ${users.length} users`);
 	console.log(`seeded successfully`);
 }
 
