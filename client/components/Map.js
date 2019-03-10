@@ -10,6 +10,7 @@ import React, { createRef, Component } from "react";
 import { connect } from "react-redux";
 import centroid from "@turf/centroid";
 import MarkerClusterGroup from "react-leaflet-markercluster";
+import { GeoJSONFillable, Patterns } from "react-leaflet-geojson-patterns";
 class Map extends Component {
 	constructor() {
 		super();
@@ -37,7 +38,15 @@ class Map extends Component {
 					attribution="&copy; <a href=&quot;https://www.openstreetmap.org/copyright&quot;>OpenStreetMap</a> contributors &copy; <a href=&quot;https://carto.com/attributions&quot;>CARTO</a>"
 					url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png"
 				/>
-				<GeoJSON
+				<GeoJSONFillable data={this.props.fetchedLayers[0].data} />
+				{/* <GeoJSONFillable
+					style={feature => ({
+						color: "red",
+						fillPattern: Patterns.StripePattern({
+							color: "red",
+							key: "stripes",
+						}),
+					})} 
 					data={this.props.fetchedLayers[0].data}
 					onEachFeature={(feature, layer) => {
 						const [lng, lat] = centroid(feature).geometry.coordinates;
@@ -58,7 +67,7 @@ class Map extends Component {
 								</Tooltip>
 							</Marker>
 						))}
-				</MarkerClusterGroup>
+				</MarkerClusterGroup> */}
 			</LeafletMap>
 		) : (
 			""
