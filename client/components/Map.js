@@ -6,13 +6,18 @@ import {
 	Tooltip,
 } from "react-leaflet";
 import L from "leaflet";
-import React, { createRef, Component } from "react";
+import React, { Component } from "react";
 import { connect } from "react-redux";
 import centroid from "@turf/centroid";
+import { featureEach } from "@turf/meta";
+import { getCoords } from "@turf/invariant";
 import MarkerClusterGroup from "react-leaflet-markercluster";
 import { GeoJSONFillable, Patterns } from "react-leaflet-geojson-patterns";
+import { fetchLayer, removeLayer } from "./../store/map";
 import { Sidebar, Tab } from "react-leaflet-sidetabs";
-import { FiHome, FiChevronRight, FiSearch, FiSettings } from "react-icons/fi";
+import { FiHome, FiChevronRight, FiFilter } from "react-icons/fi";
+import availableLayers from "./../availableLayers";
+
 class Map extends Component {
 	constructor() {
 		super();
@@ -24,7 +29,6 @@ class Map extends Component {
 			collapsed: false,
 			selected: "home",
 		};
-		this.mapRef = createRef(<Map />);
 	}
 	onClose() {
 		this.setState({ collapsed: true });
@@ -37,9 +41,8 @@ class Map extends Component {
 	}
 
 	render() {
-		this.props.fetchedLayers.length && console.log(this.props.fetchedLayers);
 		const position = [this.state.lat, this.state.lng];
-		return this.props.fetchedLayers[0] ? (
+		return (
 			<React.Fragment>
 				<Sidebar
 					id="sidebar"
@@ -53,16 +56,29 @@ class Map extends Component {
 					<Tab id="home" header="Home" icon={<FiHome />}>
 						<p>No place like home!</p>
 					</Tab>
-					<Tab id="search" header="Search" icon={<FiSearch />}>
-						<p>The noblest search is the search for excellence!</p>
-					</Tab>
-					<Tab
-						id="settings"
-						header="Settings"
-						anchor="bottom"
-						icon={<FiSettings />}
-					>
-						<p>We don't want privacy so much as privacy settings!</p>
+					<Tab id="filters" header="Filters" icon={<FiFilter />}>
+						<div>
+							<div>
+								{availableLayers.map(layer => (
+									<React.Fragment key={layer[0]}>
+										<label htmlFor={layer[0]}>{layer[1]}</label>
+										<button
+											onClick={() => this.props.fetchLayer(`${layer[0]}`)}
+											type="button"
+											name={layer[0]}
+										>
+											Add
+										</button>
+										<button
+											onClick={() => this.props.removeLayer(`${layer[0]}`)}
+											type="button"
+										>
+											Remove
+										</button>
+									</React.Fragment>
+								))}
+							</div>
+						</div>
 					</Tab>
 				</Sidebar>
 				<LeafletMap
@@ -76,55 +92,72 @@ class Map extends Component {
 						attribution="&copy; <a href=&quot;https://www.openstreetmap.org/copyright&quot;>OpenStreetMap</a> contributors &copy; <a href=&quot;https://carto.com/attributions&quot;>CARTO</a>"
 						url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png"
 					/>
-					{/* <GeoJSONFillable data={this.props.fetchedLayers[0].data} /> */}
-					<GeoJSONFillable
-						style={feature => ({
-							color: "red",
-							fillPattern: Patterns.StripePattern({
-								color: "red",
-								key: "stripes",
-							}),
-						})}
-						data={this.props.fetchedLayers[0].data}
-						onEachFeature={(feature, layer) => {
-							const [lng, lat] = centroid(feature).geometry.coordinates;
-							const latLngArr = [lat, lng];
-							const obj = L.latLng(latLngArr);
-							obj.name = feature.properties.Name;
-							this.setState(state => ({
-								coords: state.coords.concat(obj),
-							}));
-						}}
-					/>
-					<MarkerClusterGroup>
-						{this.state.coords &&
-							this.state.coords.map(el => (
-								<Marker key={`${el[0]}${el[1]}`} position={el}>
-									<Tooltip position="auto" permanent="true">
-										{el.name}
-									</Tooltip>
-								</Marker>
-							))}
-					</MarkerClusterGroup>
+					{this.props.fetchedLayers[0] && (
+						<GeoJSON
+							data={
+								this.props.fetchedLayers[0] && this.props.fetchedLayers[0].data
+							}
+							onEachFeature={(feature, layer) => {
+								console.log(layer);
+								layer.bindTooltip("test!", {
+									sticky: true,
+								});
+							}}
+						/>
+					)}
+					{this.props.fetchedLayers[1] &&
+						this.props.fetchedLayers[1].data && (
+						<React.Fragment>
+							<GeoJSONFillable
+								style={feature => ({
+									color: "#FF0000",
+								})}
+								data={this.props.fetchedLayers[1].data}
+								onEachFeature={(feature, layer) => {
+									const [lng, lat] = centroid(feature).geometry.coordinates;
+									const latLngArr = [lat, lng];
+									const obj = L.latLng(latLngArr);
+									obj.name = feature.properties.Name;
+									this.setState(state => ({
+										coords: state.coords.concat(obj),
+									}));
+								}}
+							/>
+							<MarkerClusterGroup>
+								{this.props.fetchedLayers[1].data.features.map(el => {
+									// console.log(el);
+									const [lng, lat] = centroid(el).geometry.coordinates;
+									const latLngArr = [lat, lng];
+									const coords = L.latLng(latLngArr);
+									return (
+										<Marker key={el.properties.name} position={coords}>
+											<Tooltip position="auto" permanent="true">
+												{el.properties.Name}
+											</Tooltip>
+										</Marker>
+									);
+								})}
+									})}
+							</MarkerClusterGroup>
+						</React.Fragment>
+					)}
 				</LeafletMap>
 			</React.Fragment>
-		) : (
-			""
 		);
 	}
 }
 
 const mapStateToProps = (state, ownProps) => ({
-	communityAreas: state.map,
-	fetchedLayers: state.map.fetchedLayers,
+	fetchedLayers: state.map,
 });
 
-// const mapDispatchToProps = (dispatch, ownProps) => {
-// 	return {
-// 		dispatch1: () => {
-// 			dispatch(actionCreator)
-// 		}
-// 	}
-// }
+const mapDispatchToProps = (dispatch, ownProps) => ({
+	fetchLayer: layer => {
+		dispatch(fetchLayer(layer));
+	},
+	removeLayer: layer => {
+		dispatch(removeLayer(layer));
+	},
+});
 
-export default connect(mapStateToProps)(Map);
+export default connect(mapStateToProps, mapDispatchToProps)(Map);
