@@ -8,7 +8,7 @@
 	"features": [
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "203 - RENAISSANCE HOTEL CONCOURSE" },
+			"properties": { "street_nam": "203 - RENAISSANCE HOTEL CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -140,7 +140,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "AON CENTRE - FAIRMONT HOTEL WALKWAY" },
+			"properties": { "street_nam": "AON CENTRE - FAIRMONT HOTEL WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -156,7 +156,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "AON CENTRE - LAKESHORE ATHLETIC CLUB CONCOURSE"
+				"street_nam": "AON CENTRE - LAKESHORE ATHLETIC CLUB CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -192,7 +192,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "AON CENTRE LOBBIES" },
+			"properties": { "street_nam": "AON CENTRE LOBBIES" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -220,7 +220,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "APPAREL CENTER GROUND LEVEL WALKWAY" },
+			"properties": { "street_nam": "APPAREL CENTER GROUND LEVEL WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -247,7 +247,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "APPAREL CENTER UPPER LEVEL WALKWAY" },
+			"properties": { "street_nam": "APPAREL CENTER UPPER LEVEL WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -265,7 +265,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "BC / BS - MONROE GARAGE & GRANT PARK CONCOURSE"
+				"street_nam": "BC / BS - MONROE GARAGE & GRANT PARK CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -343,7 +343,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "CHASE TOWER GROUND LEVEL CONCOURSE" },
+			"properties": { "street_nam": "CHASE TOWER GROUND LEVEL CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -366,7 +366,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "CHASE TOWER LOWER LEVEL CONCOURSE" },
+			"properties": { "street_nam": "CHASE TOWER LOWER LEVEL CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -440,7 +440,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "CHICAGO TITLE & TRUST CENTER WALKWAY" },
+			"properties": { "street_nam": "CHICAGO TITLE & TRUST CENTER WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -464,7 +464,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "CITY HALL - 120 NORTH LASALLE WALKWAY" },
+			"properties": { "street_nam": "CITY HALL - 120 NORTH LASALLE WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -489,7 +489,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "CITY HALL & COUNTY - CULTURAL CENTER CONCOURSE"
+				"street_nam": "CITY HALL & COUNTY - CULTURAL CENTER CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -639,7 +639,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "CITY HALL & COUNTY - THOMPSON CENTER WALKWAY"
+				"street_nam": "CITY HALL & COUNTY - THOMPSON CENTER WALKWAY"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -659,7 +659,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "CITY HALL & COUNTY BUILDING HALLWAYS" },
+			"properties": { "street_nam": "CITY HALL & COUNTY BUILDING HALLWAYS" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -695,7 +695,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "DALEY PLAZA - BRUNSWICK BUILDING CONCOURSE"
+				"street_nam": "DALEY PLAZA - BRUNSWICK BUILDING CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -747,7 +747,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "FAIRMONT HOTEL - PARK MILLENNIUM CONCOURSE"
+				"street_nam": "FAIRMONT HOTEL - PARK MILLENNIUM CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -770,7 +770,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "GARLAND COURT - R.R.DONNELLEY WALKWAY" },
+			"properties": { "street_nam": "GARLAND COURT - R.R.DONNELLEY WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -802,7 +802,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "GRANT PARK SOUTH PARKING WALKWAY" },
+			"properties": { "street_nam": "GRANT PARK SOUTH PARKING WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -839,7 +839,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "JACKSON CTA SUBWAY STATION CONNECTOR" },
+			"properties": { "street_nam": "JACKSON CTA SUBWAY STATION CONNECTOR" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -896,7 +896,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "JAMES R. THOMPSON CENTER GROUND LEVEL CONCOURSE"
+				"street_nam": "JAMES R. THOMPSON CENTER GROUND LEVEL CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -990,7 +990,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "JAMES R. THOMPSON CENTER LOWER LEVEL CONCOURSE"
+				"street_nam": "JAMES R. THOMPSON CENTER LOWER LEVEL CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -1066,7 +1066,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "MACY'S - 25 E WASHINGTON CONCOURSE" },
+			"properties": { "street_nam": "MACY'S - 25 E WASHINGTON CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1120,7 +1120,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "MERCHANDISE MART GROUND LEVEL CONCOURSE" },
+			"properties": { "street_nam": "MERCHANDISE MART GROUND LEVEL CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1309,7 +1309,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "THOMPSON CENTER - CONCOURSE AT 203 WALKWAY"
+				"street_nam": "THOMPSON CENTER - CONCOURSE AT 203 WALKWAY"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -1329,7 +1329,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "MERCHANDISE MART UPPER LEVEL CONCOURSE" },
+			"properties": { "street_nam": "MERCHANDISE MART UPPER LEVEL CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1430,7 +1430,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "METRA MILLENNIUM PARK STATION CONCOURSE" },
+			"properties": { "street_nam": "METRA MILLENNIUM PARK STATION CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1509,7 +1509,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "METRA VAN BUREN STATION WALKWAY" },
+			"properties": { "street_nam": "METRA VAN BUREN STATION WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1555,7 +1555,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "MICHIGAN PLAZA - ILLINOIS CENTER CONCOURSE"
+				"street_nam": "MICHIGAN PLAZA - ILLINOIS CENTER CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -1590,7 +1590,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "MICHIGAN PLAZA WALKWAY" },
+			"properties": { "street_nam": "MICHIGAN PLAZA WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1646,7 +1646,9 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "MILLENNIUM & N GRANT PARK GARAGE WALKWAY" },
+			"properties": {
+				"street_nam": "MILLENNIUM & N GRANT PARK GARAGE WALKWAY"
+			},
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1724,7 +1726,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "N LEO BURNETT - S LEO BURNETT WALKWAY" },
+			"properties": { "street_nam": "N LEO BURNETT - S LEO BURNETT WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1758,7 +1760,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "OGILVIE GROUND LEVEL CONCOURSE" },
+			"properties": { "street_nam": "OGILVIE GROUND LEVEL CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1797,7 +1799,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "OGILVIE METRA STATION" },
+			"properties": { "street_nam": "OGILVIE METRA STATION" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1838,7 +1840,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "OGILVIE UPPER LEVEL - 2 RIVERSIDE CONCOURSE"
+				"street_nam": "OGILVIE UPPER LEVEL - 2 RIVERSIDE CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -1865,7 +1867,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "ONE ILLINOIS CENTER - COLUMBUS PLAZA CONCOURSE"
+				"street_nam": "ONE ILLINOIS CENTER - COLUMBUS PLAZA CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -1897,7 +1899,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "ONE ILLINOIS CENTER - TWO ILLINOIS CENTER WALKWAY"
+				"street_nam": "ONE ILLINOIS CENTER - TWO ILLINOIS CENTER WALKWAY"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -1911,7 +1913,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "PRUDENTIAL PLAZA - AON CENTRE CONCOURSE" },
+			"properties": { "street_nam": "PRUDENTIAL PLAZA - AON CENTRE CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1953,7 +1955,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "RENAISSANCE HOTEL WALKWAY" },
+			"properties": { "street_nam": "RENAISSANCE HOTEL WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1968,7 +1970,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "SMURFIT STONE WALKWAY" },
+			"properties": { "street_nam": "SMURFIT STONE WALKWAY" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -1984,7 +1986,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "THREE BANK ONE PLAZA - 33 N DEARBORN CONCOURSE"
+				"street_nam": "THREE BANK ONE PLAZA - 33 N DEARBORN CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -2060,7 +2062,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "THREE ILLINOIS CENTER - SWISS HOTEL CONCOURSE"
+				"street_nam": "THREE ILLINOIS CENTER - SWISS HOTEL CONCOURSE"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -2106,7 +2108,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "TWO ILLINOIS - THREE ILLINOIS CONCOURSE" },
+			"properties": { "street_nam": "TWO ILLINOIS - THREE ILLINOIS CONCOURSE" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [
@@ -2152,7 +2154,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"ped_route": "TWO ILLINOIS CENTER - HYATT REGENCY WALKWAY"
+				"street_nam": "TWO ILLINOIS CENTER - HYATT REGENCY WALKWAY"
 			},
 			"geometry": {
 				"type": "MultiLineString",
@@ -2167,7 +2169,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "ped_route": "TWO PRUDENTIAL PLAZA CONCOURSES" },
+			"properties": { "street_nam": "TWO PRUDENTIAL PLAZA CONCOURSES" },
 			"geometry": {
 				"type": "MultiLineString",
 				"coordinates": [

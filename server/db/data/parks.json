@@ -8,7 +8,7 @@
 	"features": [
 		{
 			"type": "Feature",
-			"properties": { "park": "TILTON (GEORGE)" },
+			"properties": { "Name": "TILTON (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28,7 +28,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BRAINERD" },
+			"properties": { "Name": "BRAINERD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -46,7 +46,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ELSTON (DANIEL)" },
+			"properties": { "Name": "ELSTON (DANIEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WENDT (KENNETH)" },
+			"properties": { "Name": "WENDT (KENNETH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -83,7 +83,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DIXON (LORRAINE)" },
+			"properties": { "Name": "DIXON (LORRAINE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -134,7 +134,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHOPIN (FREDERIC)" },
+			"properties": { "Name": "CHOPIN (FREDERIC)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -152,7 +152,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK-VIEW" },
+			"properties": { "Name": "PARK-VIEW" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -171,7 +171,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ALGONQUIN" },
+			"properties": { "Name": "ALGONQUIN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -189,7 +189,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MAPLEWOOD" },
+			"properties": { "Name": "MAPLEWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -209,7 +209,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AUGUSTA (CARPENTER)" },
+			"properties": { "Name": "AUGUSTA (CARPENTER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -227,7 +227,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BICKERDIKE (GEORGE) SQUARE" },
+			"properties": { "Name": "BICKERDIKE (GEORGE) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -245,7 +245,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 419" },
+			"properties": { "Name": "PARK NO. 419" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -269,7 +269,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OGDEN (WILLIAM) PLAZA" },
+			"properties": { "Name": "OGDEN (WILLIAM) PLAZA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -289,7 +289,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DUSABLE (JEAN BAPTISTE POINTE)" },
+			"properties": { "Name": "DUSABLE (JEAN BAPTISTE POINTE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -313,7 +313,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AUSTIN TOWN HALL" },
+			"properties": { "Name": "AUSTIN TOWN HALL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -331,7 +331,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HUBBARD (GURDON)" },
+			"properties": { "Name": "HUBBARD (GURDON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -349,7 +349,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SAINT LOUIS" },
+			"properties": { "Name": "SAINT LOUIS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -367,7 +367,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DOGWOOD" },
+			"properties": { "Name": "DOGWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -386,7 +386,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MUNROE" },
+			"properties": { "Name": "MUNROE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -413,7 +413,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LIN (MARGARET HIE DING)" },
+			"properties": { "Name": "LIN (MARGARET HIE DING)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -431,7 +431,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 535" },
+			"properties": { "Name": "PARK NO. 535" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -453,7 +453,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TOUHY-HERBERT (JOHN, VICTOR)" },
+			"properties": { "Name": "TOUHY-HERBERT (JOHN, VICTOR)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -484,7 +484,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "THROOP (AMOS GAGER)" },
+			"properties": { "Name": "THROOP (AMOS GAGER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -502,7 +502,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LONDON (LOUIS)" },
+			"properties": { "Name": "LONDON (LOUIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -520,7 +520,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MCGUANE (JOHN)" },
+			"properties": { "Name": "MCGUANE (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -541,7 +541,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HUMBERT (JAMES)" },
+			"properties": { "Name": "HUMBERT (JAMES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -559,7 +559,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MCKEON (JOSEPH)" },
+			"properties": { "Name": "MCKEON (JOSEPH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -577,7 +577,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "POPLAR" },
+			"properties": { "Name": "POPLAR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -599,7 +599,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARSH (VIVIAN G.)" },
+			"properties": { "Name": "HARSH (VIVIAN G.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -617,7 +617,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FULLER (MELVILLE)" },
+			"properties": { "Name": "FULLER (MELVILLE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -862,7 +862,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BACK OF THE YARDS" },
+			"properties": { "Name": "BACK OF THE YARDS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -882,7 +882,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ELM" },
+			"properties": { "Name": "ELM" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -916,7 +916,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LOWE (SAMUEL)" },
+			"properties": { "Name": "LOWE (SAMUEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -934,7 +934,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STROHACKER (HOWARD)" },
+			"properties": { "Name": "STROHACKER (HOWARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -952,7 +952,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EDMONDS (MOLLY)" },
+			"properties": { "Name": "EDMONDS (MOLLY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -974,7 +974,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CARPENTER (PHILO)" },
+			"properties": { "Name": "CARPENTER (PHILO)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -992,7 +992,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 326" },
+			"properties": { "Name": "PARK NO. 326" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1010,7 +1010,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WEST LAWN" },
+			"properties": { "Name": "WEST LAWN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1131,7 +1131,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HASAN (ELLIOT)" },
+			"properties": { "Name": "HASAN (ELLIOT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1149,7 +1149,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MEMORIAL" },
+			"properties": { "Name": "MEMORIAL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1175,7 +1175,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROSENBLUM (J. LESLIE)" },
+			"properties": { "Name": "ROSENBLUM (J. LESLIE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1309,7 +1309,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRAVER (PHILIP)" },
+			"properties": { "Name": "GRAVER (PHILIP)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1342,7 +1342,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RAILROAD JUNCTION" },
+			"properties": { "Name": "RAILROAD JUNCTION" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1364,7 +1364,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHICAGO WOMEN'S PARK AND GARDENS" },
+			"properties": { "Name": "CHICAGO WOMEN'S PARK AND GARDENS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1397,7 +1397,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SCHAFER (CLARA D.)" },
+			"properties": { "Name": "SCHAFER (CLARA D.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1518,7 +1518,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NEIGHBORS' GARDEN" },
+			"properties": { "Name": "NEIGHBORS' GARDEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1536,7 +1536,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LINCOLN (ABRAHAM)" },
+			"properties": { "Name": "LINCOLN (ABRAHAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5945,7 +5945,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MARQUETTE (JACQUES)" },
+			"properties": { "Name": "MARQUETTE (JACQUES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -14836,7 +14836,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RONAN (GEORGE)" },
+			"properties": { "Name": "RONAN (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -14971,7 +14971,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROGERS (PHILLIP) BEACH" },
+			"properties": { "Name": "ROGERS (PHILLIP) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -15035,7 +15035,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LEONE (SAM) BEACH" },
+			"properties": { "Name": "LEONE (SAM) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -15082,7 +15082,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MIDWAY PLAISANCE" },
+			"properties": { "Name": "MIDWAY PLAISANCE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18088,7 +18088,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WILDWOOD" },
+			"properties": { "Name": "WILDWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18132,7 +18132,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MONUMENT" },
+			"properties": { "Name": "MONUMENT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18162,7 +18162,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MYRTLE GROVE" },
+			"properties": { "Name": "MYRTLE GROVE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18179,7 +18179,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JEFFERSON (THOMAS) MEML." },
+			"properties": { "Name": "JEFFERSON (THOMAS) MEML." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18202,7 +18202,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JACOB" },
+			"properties": { "Name": "JACOB" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18226,7 +18226,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JENSEN (CHRIST)" },
+			"properties": { "Name": "JENSEN (CHRIST)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18258,7 +18258,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROBINSON (JACKIE)" },
+			"properties": { "Name": "ROBINSON (JACKIE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18280,7 +18280,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STOUT (FLORENCE)" },
+			"properties": { "Name": "STOUT (FLORENCE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18483,7 +18483,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DURKIN (MARTIN)" },
+			"properties": { "Name": "DURKIN (MARTIN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18501,7 +18501,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OWENS (JESSE)" },
+			"properties": { "Name": "OWENS (JESSE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -18523,7 +18523,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JACKSON (ANDREW)" },
+			"properties": { "Name": "JACKSON (ANDREW)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -23201,7 +23201,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PRITZKER" },
+			"properties": { "Name": "PRITZKER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -23221,7 +23221,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 556" },
+			"properties": { "Name": "PARK NO. 556" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -23254,7 +23254,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 571" },
+			"properties": { "Name": "PARK NO. 571" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -23277,7 +23277,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DONAHUE (MARGARET)" },
+			"properties": { "Name": "DONAHUE (MARGARET)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -23297,7 +23297,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PALMER SQUARE" },
+			"properties": { "Name": "PALMER SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -23398,7 +23398,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HUMBOLDT (BARON VON)" },
+			"properties": { "Name": "HUMBOLDT (BARON VON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24534,7 +24534,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MANDRAKE (HENRY BROWN)" },
+			"properties": { "Name": "MANDRAKE (HENRY BROWN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24590,7 +24590,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MERRILL (GEORGE)" },
+			"properties": { "Name": "MERRILL (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24614,7 +24614,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "VETERANS' MEMORIAL" },
+			"properties": { "Name": "VETERANS' MEMORIAL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24632,7 +24632,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARRIS (HARRIET)" },
+			"properties": { "Name": "HARRIS (HARRIET)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24650,7 +24650,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LOGAN SQUARE SKATE PARK" },
+			"properties": { "Name": "LOGAN SQUARE SKATE PARK" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24700,7 +24700,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TOUHY (PATRICK)" },
+			"properties": { "Name": "TOUHY (PATRICK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24732,7 +24732,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LUNT (ORRINGTON, STEPHEN)" },
+			"properties": { "Name": "LUNT (ORRINGTON, STEPHEN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24750,7 +24750,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MATANKY (EUGENE)" },
+			"properties": { "Name": "MATANKY (EUGENE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24777,7 +24777,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORTH SHORE BEACH" },
+			"properties": { "Name": "NORTH SHORE BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24806,7 +24806,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EMMERSON (LOUIS)" },
+			"properties": { "Name": "EMMERSON (LOUIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24832,7 +24832,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KORCZAK (JANUSZ)" },
+			"properties": { "Name": "KORCZAK (JANUSZ)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24850,7 +24850,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MATHER (STEPHEN TYNG)" },
+			"properties": { "Name": "MATHER (STEPHEN TYNG)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24869,7 +24869,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PETERSON (PEHR SAMUEL)" },
+			"properties": { "Name": "PETERSON (PEHR SAMUEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24945,7 +24945,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MULBERRY POINT" },
+			"properties": { "Name": "MULBERRY POINT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24973,7 +24973,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ATHLETIC FIELD" },
+			"properties": { "Name": "ATHLETIC FIELD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -24999,7 +24999,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ORIOLE" },
+			"properties": { "Name": "ORIOLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25049,7 +25049,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRANDPARENTS'" },
+			"properties": { "Name": "GRANDPARENTS'" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25086,7 +25086,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FOREST GLEN" },
+			"properties": { "Name": "FOREST GLEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25118,7 +25118,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORTH MAYFAIR" },
+			"properties": { "Name": "NORTH MAYFAIR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25154,7 +25154,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SPIKINGS FARM" },
+			"properties": { "Name": "SPIKINGS FARM" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25172,7 +25172,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SUNKEN GARDENS" },
+			"properties": { "Name": "SUNKEN GARDENS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25195,7 +25195,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BRONCHO BILLY" },
+			"properties": { "Name": "BRONCHO BILLY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25217,7 +25217,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BOHN (HENRY)" },
+			"properties": { "Name": "BOHN (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25258,7 +25258,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MOUNT GREENWOOD" },
+			"properties": { "Name": "MOUNT GREENWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25295,7 +25295,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ADA (SAWYER GARRETT)" },
+			"properties": { "Name": "ADA (SAWYER GARRETT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25323,7 +25323,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WHITE (EDWARD)" },
+			"properties": { "Name": "WHITE (EDWARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25349,7 +25349,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WEST PULLMAN" },
+			"properties": { "Name": "WEST PULLMAN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25406,7 +25406,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GOLDEN GATE" },
+			"properties": { "Name": "GOLDEN GATE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25468,7 +25468,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 517" },
+			"properties": { "Name": "PARK NO. 517" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25486,7 +25486,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FILBERT" },
+			"properties": { "Name": "FILBERT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25504,7 +25504,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BESSEMER (HENRY)" },
+			"properties": { "Name": "BESSEMER (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25523,7 +25523,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TULEY (MURRAY)" },
+			"properties": { "Name": "TULEY (MURRAY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25580,7 +25580,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SHEIL (BERNARD) COMM. CTR." },
+			"properties": { "Name": "SHEIL (BERNARD) COMM. CTR." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -25598,7 +25598,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DOUGLAS (STEPHEN)" },
+			"properties": { "Name": "DOUGLAS (STEPHEN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28316,7 +28316,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SUPERA" },
+			"properties": { "Name": "SUPERA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28336,7 +28336,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RIIS (JACOB)" },
+			"properties": { "Name": "RIIS (JACOB)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28407,7 +28407,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HAAS (JOSEPH)" },
+			"properties": { "Name": "HAAS (JOSEPH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28427,7 +28427,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KEYSTONE" },
+			"properties": { "Name": "KEYSTONE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28445,7 +28445,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 414" },
+			"properties": { "Name": "PARK NO. 414" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28463,7 +28463,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRAND" },
+			"properties": { "Name": "GRAND" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28483,7 +28483,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SUPERIOR" },
+			"properties": { "Name": "SUPERIOR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28501,7 +28501,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OHIO" },
+			"properties": { "Name": "OHIO" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28520,7 +28520,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JEFFERSON (NANCY)" },
+			"properties": { "Name": "JEFFERSON (NANCY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28539,7 +28539,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GLADYS (GUNDERSON)" },
+			"properties": { "Name": "GLADYS (GUNDERSON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28557,7 +28557,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOMAN SQUARE COMMUNITY CENTER" },
+			"properties": { "Name": "HOMAN SQUARE COMMUNITY CENTER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28594,7 +28594,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MASON (ELIZABETH)" },
+			"properties": { "Name": "MASON (ELIZABETH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28614,7 +28614,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SCOTTSDALE" },
+			"properties": { "Name": "SCOTTSDALE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28676,7 +28676,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 422" },
+			"properties": { "Name": "PARK NO. 422" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28905,7 +28905,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DEARBORN (HENRY)" },
+			"properties": { "Name": "DEARBORN (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28923,7 +28923,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WELLES (GIDEON)" },
+			"properties": { "Name": "WELLES (GIDEON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -28984,7 +28984,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MCKIERNAN (DAVID)" },
+			"properties": { "Name": "MCKIERNAN (DAVID)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29002,7 +29002,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LAMB (HAROLD)" },
+			"properties": { "Name": "LAMB (HAROLD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29032,7 +29032,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 514" },
+			"properties": { "Name": "PARK NO. 514" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29051,7 +29051,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ADAMS (GEORGE & ADELE)" },
+			"properties": { "Name": "ADAMS (GEORGE & ADELE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29071,7 +29071,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROBICHAUX (JOSEPH)" },
+			"properties": { "Name": "ROBICHAUX (JOSEPH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29167,7 +29167,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HIAWATHA" },
+			"properties": { "Name": "HIAWATHA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29237,7 +29237,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AVONDALE" },
+			"properties": { "Name": "AVONDALE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29255,7 +29255,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FELLGER (CHARLES)" },
+			"properties": { "Name": "FELLGER (CHARLES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29273,7 +29273,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KENMORE" },
+			"properties": { "Name": "KENMORE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29291,7 +29291,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARSONS (LUCY)" },
+			"properties": { "Name": "PARSONS (LUCY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29309,7 +29309,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WEISMAN (ALBERT)" },
+			"properties": { "Name": "WEISMAN (ALBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29327,7 +29327,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NOETHLING (GRACE)" },
+			"properties": { "Name": "NOETHLING (GRACE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29346,7 +29346,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JONQUIL" },
+			"properties": { "Name": "JONQUIL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29367,7 +29367,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BLACKHAWK" },
+			"properties": { "Name": "BLACKHAWK" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29385,7 +29385,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AIELLO (JOHN)" },
+			"properties": { "Name": "AIELLO (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29403,7 +29403,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BAULER (MATHIAS)" },
+			"properties": { "Name": "BAULER (MATHIAS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29423,7 +29423,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WESTERN" },
+			"properties": { "Name": "WESTERN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29441,7 +29441,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KELLS (GEORGE)" },
+			"properties": { "Name": "KELLS (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29459,7 +29459,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SNOWBERRY" },
+			"properties": { "Name": "SNOWBERRY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29479,7 +29479,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SWEET CLOVER" },
+			"properties": { "Name": "SWEET CLOVER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29502,7 +29502,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DEBOW (RUSSELL)" },
+			"properties": { "Name": "DEBOW (RUSSELL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29521,7 +29521,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WASHINGTON (DINAH)" },
+			"properties": { "Name": "WASHINGTON (DINAH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29543,7 +29543,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LEVIN (JOHN)" },
+			"properties": { "Name": "LEVIN (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29561,7 +29561,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KINZIE (JOHN) PKWY." },
+			"properties": { "Name": "KINZIE (JOHN) PKWY." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29643,7 +29643,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MOORE (MAURICE)" },
+			"properties": { "Name": "MOORE (MAURICE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29661,7 +29661,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CLARK (JOHN)" },
+			"properties": { "Name": "CLARK (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29690,7 +29690,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HORAN (ALBERT)" },
+			"properties": { "Name": "HORAN (ALBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29711,7 +29711,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CLAREMONT" },
+			"properties": { "Name": "CLAREMONT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29729,7 +29729,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BARBERRY" },
+			"properties": { "Name": "BARBERRY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29747,7 +29747,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KEDVALE" },
+			"properties": { "Name": "KEDVALE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29772,7 +29772,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RUTHERFORD SAYRE" },
+			"properties": { "Name": "RUTHERFORD SAYRE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29835,7 +29835,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 538" },
+			"properties": { "Name": "PARK NO. 538" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -29873,7 +29873,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SHEDD (JOHN G.)" },
+			"properties": { "Name": "SHEDD (JOHN G.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30000,7 +30000,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DUNBAR (PAUL LAURENCE)" },
+			"properties": { "Name": "DUNBAR (PAUL LAURENCE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30071,7 +30071,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ARMOUR (PHILIP) SQUARE" },
+			"properties": { "Name": "ARMOUR (PHILIP) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30089,7 +30089,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOYNE (THOMAS)" },
+			"properties": { "Name": "HOYNE (THOMAS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30107,7 +30107,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORTHERLY ISLAND" },
+			"properties": { "Name": "NORTHERLY ISLAND" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30433,7 +30433,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHRISTIANA" },
+			"properties": { "Name": "CHRISTIANA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30451,7 +30451,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "REYES (GUADALUPE)" },
+			"properties": { "Name": "REYES (GUADALUPE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30469,7 +30469,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ARMSTRONG (LILLIAN HARDIN)" },
+			"properties": { "Name": "ARMSTRONG (LILLIAN HARDIN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30487,7 +30487,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DAVIS (DR. NATHAN) SQUARE" },
+			"properties": { "Name": "DAVIS (DR. NATHAN) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30507,7 +30507,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WIEBOLDT (WILLIAM)" },
+			"properties": { "Name": "WIEBOLDT (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30525,7 +30525,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BROOKS (GWENDOLYN)" },
+			"properties": { "Name": "BROOKS (GWENDOLYN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30549,7 +30549,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ARCHER (WILLIAM BEATTY)" },
+			"properties": { "Name": "ARCHER (WILLIAM BEATTY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30567,7 +30567,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PACKINGTOWN" },
+			"properties": { "Name": "PACKINGTOWN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30591,7 +30591,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOUSTON (JESSIE \"MA\")" },
+			"properties": { "Name": "HOUSTON (JESSIE \"MA\")" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30875,7 +30875,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LITTLE VENICE" },
+			"properties": { "Name": "LITTLE VENICE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30895,7 +30895,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PERIWINKLE" },
+			"properties": { "Name": "PERIWINKLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30930,7 +30930,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MADIGAN (MICHAEL J., SR.)" },
+			"properties": { "Name": "MADIGAN (MICHAEL J., SR.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -30977,7 +30977,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 527" },
+			"properties": { "Name": "PARK NO. 527" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31000,7 +31000,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JEFFERSON (THOMAS)" },
+			"properties": { "Name": "JEFFERSON (THOMAS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31035,7 +31035,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HONOR� (BERTHA PALMER)" },
+			"properties": { "Name": "HONOR� (BERTHA PALMER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31054,7 +31054,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STEELWORKERS" },
+			"properties": { "Name": "STEELWORKERS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31080,7 +31080,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RIVER" },
+			"properties": { "Name": "RIVER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31162,7 +31162,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "POTTAWATTOMIE" },
+			"properties": { "Name": "POTTAWATTOMIE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31219,7 +31219,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KENNEDY (DENNIS)" },
+			"properties": { "Name": "KENNEDY (DENNIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31260,7 +31260,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HAMLIN (HANNIBAL)" },
+			"properties": { "Name": "HAMLIN (HANNIBAL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31295,7 +31295,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LOYOLA" },
+			"properties": { "Name": "LOYOLA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31550,7 +31550,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LAZARUS (EMMA)" },
+			"properties": { "Name": "LAZARUS (EMMA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31569,7 +31569,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EDISON (THOMAS ALVA)" },
+			"properties": { "Name": "EDISON (THOMAS ALVA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31593,7 +31593,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BERGER (ALBERT)" },
+			"properties": { "Name": "BERGER (ALBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31616,7 +31616,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "INDIAN ROAD" },
+			"properties": { "Name": "INDIAN ROAD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31635,7 +31635,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DEJULIO (ANTHONY)" },
+			"properties": { "Name": "DEJULIO (ANTHONY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31671,7 +31671,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ANDERSONVILLE" },
+			"properties": { "Name": "ANDERSONVILLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31689,7 +31689,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GOMPERS (SAMUEL)" },
+			"properties": { "Name": "GOMPERS (SAMUEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31936,7 +31936,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KIWANIS" },
+			"properties": { "Name": "KIWANIS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -31972,7 +31972,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GROSS (THEODORE)" },
+			"properties": { "Name": "GROSS (THEODORE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32003,7 +32003,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHASE (SALMON)" },
+			"properties": { "Name": "CHASE (SALMON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32027,7 +32027,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GOOSEBERRY" },
+			"properties": { "Name": "GOOSEBERRY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32046,7 +32046,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MAYFAIR" },
+			"properties": { "Name": "MAYFAIR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32079,7 +32079,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NELSON (ANDREW)" },
+			"properties": { "Name": "NELSON (ANDREW)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32097,7 +32097,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROWAN (WILLIAM)" },
+			"properties": { "Name": "ROWAN (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32152,7 +32152,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KENSINGTON" },
+			"properties": { "Name": "KENSINGTON" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32192,7 +32192,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COLISEUM" },
+			"properties": { "Name": "COLISEUM" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32210,7 +32210,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ZATTERBERG (HELEN)" },
+			"properties": { "Name": "ZATTERBERG (HELEN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32228,7 +32228,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "REVERE (PAUL)" },
+			"properties": { "Name": "REVERE (PAUL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32254,7 +32254,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "INDEPENDENCE" },
+			"properties": { "Name": "INDEPENDENCE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32298,7 +32298,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STARR (ELLEN GATES)" },
+			"properties": { "Name": "STARR (ELLEN GATES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32325,7 +32325,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "O'HALLAREN (BERNARD)" },
+			"properties": { "Name": "O'HALLAREN (BERNARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32345,7 +32345,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "THE GROVE" },
+			"properties": { "Name": "THE GROVE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32363,7 +32363,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SACRAMENTO" },
+			"properties": { "Name": "SACRAMENTO" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32381,7 +32381,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KILBOURN" },
+			"properties": { "Name": "KILBOURN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32423,7 +32423,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KELVYN (WILLIAM)" },
+			"properties": { "Name": "KELVYN (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32475,7 +32475,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CRAGIN" },
+			"properties": { "Name": "CRAGIN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32493,7 +32493,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CLOVER" },
+			"properties": { "Name": "CLOVER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32511,7 +32511,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WALSH (JOHN)" },
+			"properties": { "Name": "WALSH (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32536,7 +32536,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GALEWOOD" },
+			"properties": { "Name": "GALEWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32566,7 +32566,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DEGEORGE (BERNICE)" },
+			"properties": { "Name": "DEGEORGE (BERNICE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32584,7 +32584,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WICKER (CHARLES, JOEL)" },
+			"properties": { "Name": "WICKER (CHARLES, JOEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32624,7 +32624,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LA FOLLETTE (ROBERT)" },
+			"properties": { "Name": "LA FOLLETTE (ROBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32686,7 +32686,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WASHINGTON SQUARE" },
+			"properties": { "Name": "WASHINGTON SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32704,7 +32704,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ECKHART (BERNARD)" },
+			"properties": { "Name": "ECKHART (BERNARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32741,7 +32741,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LAKE SHORE" },
+			"properties": { "Name": "LAKE SHORE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32759,7 +32759,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CENTRAL" },
+			"properties": { "Name": "CENTRAL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32777,7 +32777,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ECKERSALL (WALTER HERBERT)" },
+			"properties": { "Name": "ECKERSALL (WALTER HERBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32961,7 +32961,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WEST CHATHAM" },
+			"properties": { "Name": "WEST CHATHAM" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -32997,7 +32997,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OHIO & HARDING" },
+			"properties": { "Name": "OHIO & HARDING" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33015,7 +33015,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COTTONWOOD" },
+			"properties": { "Name": "COTTONWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33033,7 +33033,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ARRIGO (VICTOR)" },
+			"properties": { "Name": "ARRIGO (VICTOR)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33059,7 +33059,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 432" },
+			"properties": { "Name": "PARK NO. 432" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33077,7 +33077,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WASHINGTON (HAROLD) MEM." },
+			"properties": { "Name": "WASHINGTON (HAROLD) MEM." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33095,7 +33095,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ANDERSON (LOUIS)" },
+			"properties": { "Name": "ANDERSON (LOUIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33113,7 +33113,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CANAL ORIGINS" },
+			"properties": { "Name": "CANAL ORIGINS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33170,7 +33170,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SCHREIBER" },
+			"properties": { "Name": "SCHREIBER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33212,7 +33212,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COSME (MARGARET)" },
+			"properties": { "Name": "COSME (MARGARET)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33310,7 +33310,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KEELER (CYRUS)" },
+			"properties": { "Name": "KEELER (CYRUS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33328,7 +33328,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FRANKLIN (BENJAMIN)" },
+			"properties": { "Name": "FRANKLIN (BENJAMIN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33448,7 +33448,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOMAN (JOSEPH)" },
+			"properties": { "Name": "HOMAN (JOSEPH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33466,7 +33466,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SUN YAT-SEN" },
+			"properties": { "Name": "SUN YAT-SEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33489,7 +33489,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DONOVAN (GEORGE)" },
+			"properties": { "Name": "DONOVAN (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33507,7 +33507,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WENTWORTH (JOHN) GARDENS" },
+			"properties": { "Name": "WENTWORTH (JOHN) GARDENS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33576,7 +33576,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOLLY" },
+			"properties": { "Name": "HOLLY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33595,7 +33595,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHAMBERLAIN TRIANGLE" },
+			"properties": { "Name": "CHAMBERLAIN TRIANGLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33612,7 +33612,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PENDLETON (HADIYA)" },
+			"properties": { "Name": "PENDLETON (HADIYA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33668,7 +33668,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BIRCH" },
+			"properties": { "Name": "BIRCH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33686,7 +33686,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WALNUT" },
+			"properties": { "Name": "WALNUT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33708,7 +33708,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STARS & STRIPES" },
+			"properties": { "Name": "STARS & STRIPES" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33736,7 +33736,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COLEMAN (BESSIE)" },
+			"properties": { "Name": "COLEMAN (BESSIE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33762,7 +33762,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 468" },
+			"properties": { "Name": "PARK NO. 468" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33781,7 +33781,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WENTWORTH (JOHN)" },
+			"properties": { "Name": "WENTWORTH (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33804,7 +33804,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PASTEUR (LOUIS)" },
+			"properties": { "Name": "PASTEUR (LOUIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33832,7 +33832,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PRAIRIE WOLF" },
+			"properties": { "Name": "PRAIRIE WOLF" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33852,7 +33852,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NOTTINGHAM" },
+			"properties": { "Name": "NOTTINGHAM" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33870,7 +33870,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WOLCOTT (ALEXANDER)" },
+			"properties": { "Name": "WOLCOTT (ALEXANDER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -33888,7 +33888,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SOUTH SHORE CULTL. CTR." },
+			"properties": { "Name": "SOUTH SHORE CULTL. CTR." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34012,7 +34012,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DOOLEY (THOMAS)" },
+			"properties": { "Name": "DOOLEY (THOMAS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34036,7 +34036,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RAINEY (EDWARD)" },
+			"properties": { "Name": "RAINEY (EDWARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34054,7 +34054,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AVALON" },
+			"properties": { "Name": "AVALON" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34095,7 +34095,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FOSTER (J. FRANK)" },
+			"properties": { "Name": "FOSTER (J. FRANK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34141,7 +34141,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LEE (JOHN)" },
+			"properties": { "Name": "LEE (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34159,7 +34159,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NASH (DON) COMM. CTR." },
+			"properties": { "Name": "NASH (DON) COMM. CTR." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34182,7 +34182,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DOUGHERTY (DANIEL)" },
+			"properties": { "Name": "DOUGHERTY (DANIEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34376,7 +34376,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KRAUSE (FRANCIS VERNON)" },
+			"properties": { "Name": "KRAUSE (FRANCIS VERNON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34394,7 +34394,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DE BURGOS (JULIA)" },
+			"properties": { "Name": "DE BURGOS (JULIA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34424,7 +34424,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KING (PATRICK)-LOCKHART (ANTHONY)" },
+			"properties": { "Name": "KING (PATRICK)-LOCKHART (ANTHONY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34442,7 +34442,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LIVINGSTON FIELD" },
+			"properties": { "Name": "LIVINGSTON FIELD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -34467,7 +34467,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RAINBOW BEACH" },
+			"properties": { "Name": "RAINBOW BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35451,7 +35451,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MCINERNEY (THOMAS)" },
+			"properties": { "Name": "MCINERNEY (THOMAS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35471,7 +35471,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OAKDALE" },
+			"properties": { "Name": "OAKDALE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35510,7 +35510,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WARNER GARDEN" },
+			"properties": { "Name": "WARNER GARDEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35528,7 +35528,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MAJOR TAYLOR BIKE TRAIL" },
+			"properties": { "Name": "MAJOR TAYLOR BIKE TRAIL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35810,7 +35810,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FARGO (JAMES) BEACH" },
+			"properties": { "Name": "FARGO (JAMES) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35865,7 +35865,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GOLDBERG (LOUIS)" },
+			"properties": { "Name": "GOLDBERG (LOUIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35888,7 +35888,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OLYMPIA" },
+			"properties": { "Name": "OLYMPIA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35938,7 +35938,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BROMANN (CHARLES)" },
+			"properties": { "Name": "BROMANN (CHARLES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35956,7 +35956,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CARMEN" },
+			"properties": { "Name": "CARMEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -35974,7 +35974,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROBERTS (DANIEL) SQUARE" },
+			"properties": { "Name": "ROBERTS (DANIEL) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36017,7 +36017,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ASHMORE" },
+			"properties": { "Name": "ASHMORE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36035,7 +36035,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WILSON (FRANK)" },
+			"properties": { "Name": "WILSON (FRANK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36072,7 +36072,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BUFFALO" },
+			"properties": { "Name": "BUFFALO" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36089,7 +36089,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHALLENGER" },
+			"properties": { "Name": "CHALLENGER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36154,7 +36154,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WOLFE (RICHARD)" },
+			"properties": { "Name": "WOLFE (RICHARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36172,7 +36172,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CRESCENT" },
+			"properties": { "Name": "CRESCENT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36190,7 +36190,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BLACKWELDER (I.S., GERTRUDE)" },
+			"properties": { "Name": "BLACKWELDER (I.S., GERTRUDE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36210,7 +36210,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MORGAN (THOMAS LEEDS) FIELD" },
+			"properties": { "Name": "MORGAN (THOMAS LEEDS) FIELD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36228,7 +36228,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BUENA CIRCLE" },
+			"properties": { "Name": "BUENA CIRCLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36274,7 +36274,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 437" },
+			"properties": { "Name": "PARK NO. 437" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36296,7 +36296,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOARD (EDISON)" },
+			"properties": { "Name": "HOARD (EDISON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36314,7 +36314,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DOBSON" },
+			"properties": { "Name": "DOBSON" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36332,7 +36332,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRAND CROSSING" },
+			"properties": { "Name": "GRAND CROSSING" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36375,7 +36375,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MARSHFIELD" },
+			"properties": { "Name": "MARSHFIELD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36393,7 +36393,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BRADLEY (JOSEPHINE)" },
+			"properties": { "Name": "BRADLEY (JOSEPHINE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36438,7 +36438,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LUELLA" },
+			"properties": { "Name": "LUELLA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36459,7 +36459,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HURLEY (TIMOTHY)" },
+			"properties": { "Name": "HURLEY (TIMOTHY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36488,7 +36488,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WARREN (LAURENCE)" },
+			"properties": { "Name": "WARREN (LAURENCE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36596,7 +36596,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 552" },
+			"properties": { "Name": "PARK NO. 552" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36614,7 +36614,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRIFFIN (MARION MAHONY)" },
+			"properties": { "Name": "GRIFFIN (MARION MAHONY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36645,7 +36645,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "INDIAN BOUNDARY" },
+			"properties": { "Name": "INDIAN BOUNDARY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36672,7 +36672,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FERNWOOD PKWY." },
+			"properties": { "Name": "FERNWOOD PKWY." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36784,7 +36784,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GAGE (GEORGE)" },
+			"properties": { "Name": "GAGE (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -36991,7 +36991,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DORIA (HELEN) BEACH" },
+			"properties": { "Name": "DORIA (HELEN) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37020,7 +37020,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "D'ELIA (AILEEN)" },
+			"properties": { "Name": "D'ELIA (AILEEN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37038,7 +37038,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GREEN BRIAR" },
+			"properties": { "Name": "GREEN BRIAR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37087,7 +37087,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOLLYWOOD" },
+			"properties": { "Name": "HOLLYWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37105,7 +37105,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FIELD (EUGENE)" },
+			"properties": { "Name": "FIELD (EUGENE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37361,7 +37361,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PIETROWSKI (SYLVESTER)" },
+			"properties": { "Name": "PIETROWSKI (SYLVESTER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37379,7 +37379,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MINUTEMAN" },
+			"properties": { "Name": "MINUTEMAN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -37463,7 +37463,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WASHINGTON (GEORGE)" },
+			"properties": { "Name": "WASHINGTON (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40570,7 +40570,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NICHOLS (JOHN FOUNTAIN)" },
+			"properties": { "Name": "NICHOLS (JOHN FOUNTAIN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40617,7 +40617,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SAUGANASH" },
+			"properties": { "Name": "SAUGANASH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40653,7 +40653,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AUSTIN FOSTER" },
+			"properties": { "Name": "AUSTIN FOSTER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40671,7 +40671,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "VOGLE (HENRY JR.)" },
+			"properties": { "Name": "VOGLE (HENRY JR.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40694,7 +40694,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "THUIS (GRACE ZWIEFKA)" },
+			"properties": { "Name": "THUIS (GRACE ZWIEFKA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40712,7 +40712,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RAVENSWOOD MANOR" },
+			"properties": { "Name": "RAVENSWOOD MANOR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40743,7 +40743,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BENIAC (JOHN \"BEANS\") GREENWAY" },
+			"properties": { "Name": "BENIAC (JOHN \"BEANS\") GREENWAY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40881,7 +40881,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COOPER (JACK)" },
+			"properties": { "Name": "COOPER (JACK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40900,7 +40900,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RENAISSANCE" },
+			"properties": { "Name": "RENAISSANCE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40920,7 +40920,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JACOLIK (FLORIAN S.)" },
+			"properties": { "Name": "JACOLIK (FLORIAN S.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40938,7 +40938,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 512" },
+			"properties": { "Name": "PARK NO. 512" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40982,7 +40982,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SUMAC" },
+			"properties": { "Name": "SUMAC" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41002,7 +41002,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JUNIPER" },
+			"properties": { "Name": "JUNIPER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41025,7 +41025,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SHABBONA" },
+			"properties": { "Name": "SHABBONA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41112,7 +41112,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SENIOR CITIZENS MEML." },
+			"properties": { "Name": "SENIOR CITIZENS MEML." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41145,7 +41145,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOLSTEIN" },
+			"properties": { "Name": "HOLSTEIN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41186,7 +41186,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MAPLE" },
+			"properties": { "Name": "MAPLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41204,7 +41204,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FLOWER (LUCY)" },
+			"properties": { "Name": "FLOWER (LUCY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41223,7 +41223,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 399" },
+			"properties": { "Name": "PARK NO. 399" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41241,7 +41241,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PULASKI (CASIMER)" },
+			"properties": { "Name": "PULASKI (CASIMER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41259,7 +41259,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SENECA" },
+			"properties": { "Name": "SENECA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41277,7 +41277,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SINTIC (GREGORY)" },
+			"properties": { "Name": "SINTIC (GREGORY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41295,7 +41295,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BOGAN (WILLIAM)" },
+			"properties": { "Name": "BOGAN (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41315,7 +41315,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COLUMBUS (CHRISTOPHER)" },
+			"properties": { "Name": "COLUMBUS (CHRISTOPHER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41650,7 +41650,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ALTGELD (JOHN)" },
+			"properties": { "Name": "ALTGELD (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41668,7 +41668,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 500" },
+			"properties": { "Name": "PARK NO. 500" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41696,7 +41696,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DALEY (RICHARD J.)" },
+			"properties": { "Name": "DALEY (RICHARD J.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -41718,7 +41718,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRANT (ULYSSES)" },
+			"properties": { "Name": "GRANT (ULYSSES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42780,7 +42780,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PROSPECT GARDENS" },
+			"properties": { "Name": "PROSPECT GARDENS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42829,7 +42829,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 546" },
+			"properties": { "Name": "PARK NO. 546" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42855,7 +42855,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JONES (MARY RICHARDSON)" },
+			"properties": { "Name": "JONES (MARY RICHARDSON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42874,7 +42874,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WASHTENAW" },
+			"properties": { "Name": "WASHTENAW" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42892,7 +42892,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WILLIAMS (DANIEL HALE)" },
+			"properties": { "Name": "WILLIAMS (DANIEL HALE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42947,7 +42947,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PIOTROWSKI (LILLIAN)" },
+			"properties": { "Name": "PIOTROWSKI (LILLIAN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -42985,7 +42985,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ELLIS (SAMUEL)" },
+			"properties": { "Name": "ELLIS (SAMUEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43056,7 +43056,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CATALPA" },
+			"properties": { "Name": "CATALPA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43074,7 +43074,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CURIE (MARIE)" },
+			"properties": { "Name": "CURIE (MARIE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43108,7 +43108,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EMERALD" },
+			"properties": { "Name": "EMERALD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43126,7 +43126,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HERMITAGE" },
+			"properties": { "Name": "HERMITAGE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43144,7 +43144,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BOSWELL (ARNITA YOUNG)" },
+			"properties": { "Name": "BOSWELL (ARNITA YOUNG)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43162,7 +43162,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHESTNUT" },
+			"properties": { "Name": "CHESTNUT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43180,7 +43180,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HAMILTON (ALEXANDER)" },
+			"properties": { "Name": "HAMILTON (ALEXANDER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43207,7 +43207,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ASHE (ARTHUR) BEACH" },
+			"properties": { "Name": "ASHE (ARTHUR) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43230,7 +43230,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RUSSELL (MARTIN) SQUARE" },
+			"properties": { "Name": "RUSSELL (MARTIN) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43453,7 +43453,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BURNSIDE (AMBROSE)" },
+			"properties": { "Name": "BURNSIDE (AMBROSE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43473,7 +43473,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SMITH (WENDELL)" },
+			"properties": { "Name": "SMITH (WENDELL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43506,7 +43506,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FERNWOOD" },
+			"properties": { "Name": "FERNWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43541,7 +43541,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 564" },
+			"properties": { "Name": "PARK NO. 564" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43582,7 +43582,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KLEIN (LOIS)" },
+			"properties": { "Name": "KLEIN (LOIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43604,7 +43604,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 551" },
+			"properties": { "Name": "PARK NO. 551" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43622,7 +43622,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 576" },
+			"properties": { "Name": "PARK NO. 576" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -43661,7 +43661,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 572" },
+			"properties": { "Name": "PARK NO. 572" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44589,7 +44589,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SEWARD (WILLIAM)" },
+			"properties": { "Name": "SEWARD (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44643,7 +44643,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 528" },
+			"properties": { "Name": "PARK NO. 528" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44671,7 +44671,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 529" },
+			"properties": { "Name": "PARK NO. 529" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44690,7 +44690,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "UNITY" },
+			"properties": { "Name": "UNITY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44710,7 +44710,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROGERS (PHILLIP)" },
+			"properties": { "Name": "ROGERS (PHILLIP)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44739,7 +44739,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHIPPEWA" },
+			"properties": { "Name": "CHIPPEWA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44757,7 +44757,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LEGION" },
+			"properties": { "Name": "LEGION" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44914,7 +44914,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PALMISANO (HENRY)" },
+			"properties": { "Name": "PALMISANO (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44944,7 +44944,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RIDGE PARK WETLANDS" },
+			"properties": { "Name": "RIDGE PARK WETLANDS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44962,7 +44962,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DVORAK (ANTON)" },
+			"properties": { "Name": "DVORAK (ANTON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -44989,7 +44989,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LILY GARDENS" },
+			"properties": { "Name": "LILY GARDENS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45022,7 +45022,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WASHINGTON (HAROLD)" },
+			"properties": { "Name": "WASHINGTON (HAROLD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45126,7 +45126,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JUNEWAY BEACH" },
+			"properties": { "Name": "JUNEWAY BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45169,7 +45169,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LANGDON (MARY MARGARET)" },
+			"properties": { "Name": "LANGDON (MARY MARGARET)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45187,7 +45187,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EDGEBROOK" },
+			"properties": { "Name": "EDGEBROOK" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45237,7 +45237,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PLEASANT POINT" },
+			"properties": { "Name": "PLEASANT POINT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45267,7 +45267,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LANE (GEORGE) BEACH" },
+			"properties": { "Name": "LANE (GEORGE) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45326,7 +45326,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BROADWAY ARMORY" },
+			"properties": { "Name": "BROADWAY ARMORY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45368,7 +45368,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BRYNFORD" },
+			"properties": { "Name": "BRYNFORD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45386,7 +45386,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COCHRAN (JOHN)" },
+			"properties": { "Name": "COCHRAN (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45404,7 +45404,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GLADSTONE (WILLIAM)" },
+			"properties": { "Name": "GLADSTONE (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45434,7 +45434,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CEDAR" },
+			"properties": { "Name": "CEDAR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45452,7 +45452,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SUMMERDALE" },
+			"properties": { "Name": "SUMMERDALE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45476,7 +45476,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HICKORY" },
+			"properties": { "Name": "HICKORY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45495,7 +45495,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CLYBOURN (ARCHIBALD)" },
+			"properties": { "Name": "CLYBOURN (ARCHIBALD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45513,7 +45513,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PALMER (POTTER)" },
+			"properties": { "Name": "PALMER (POTTER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45591,7 +45591,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WESOLEK (MARLENE)" },
+			"properties": { "Name": "WESOLEK (MARLENE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45609,7 +45609,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CANALPORT RIVERWALK" },
+			"properties": { "Name": "CANALPORT RIVERWALK" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45636,7 +45636,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TRIANGLE" },
+			"properties": { "Name": "TRIANGLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45662,7 +45662,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DICKINSON (ARTHUR)" },
+			"properties": { "Name": "DICKINSON (ARTHUR)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -45679,7 +45679,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GARFIELD (JAMES)" },
+			"properties": { "Name": "GARFIELD (JAMES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -47186,7 +47186,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BURNHAM (DANIEL)" },
+			"properties": { "Name": "BURNHAM (DANIEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50277,7 +50277,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KELLY (JOHN)" },
+			"properties": { "Name": "KELLY (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50321,7 +50321,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CALIFORNIA" },
+			"properties": { "Name": "CALIFORNIA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50403,7 +50403,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KOLMAR" },
+			"properties": { "Name": "KOLMAR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50429,7 +50429,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "UNION" },
+			"properties": { "Name": "UNION" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50572,7 +50572,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KELLY (EDWARD)" },
+			"properties": { "Name": "KELLY (EDWARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50606,7 +50606,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BROWN (SIDNEY) MEML." },
+			"properties": { "Name": "BROWN (SIDNEY) MEML." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50643,7 +50643,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WOOD (ELIZABETH)" },
+			"properties": { "Name": "WOOD (ELIZABETH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50661,7 +50661,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SOUTH LAKEVIEW" },
+			"properties": { "Name": "SOUTH LAKEVIEW" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50695,7 +50695,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KOSCIUSZKO (THADEUZ)" },
+			"properties": { "Name": "KOSCIUSZKO (THADEUZ)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50742,7 +50742,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WRIGHTWOOD" },
+			"properties": { "Name": "WRIGHTWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50762,7 +50762,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SCHAEFER (EDWARD)" },
+			"properties": { "Name": "SCHAEFER (EDWARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50788,7 +50788,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OZ" },
+			"properties": { "Name": "OZ" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50812,7 +50812,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CHURCHILL FIELD" },
+			"properties": { "Name": "CHURCHILL FIELD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50839,7 +50839,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MONTICELLO" },
+			"properties": { "Name": "MONTICELLO" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50857,7 +50857,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DEAN (JOHN)" },
+			"properties": { "Name": "DEAN (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50875,7 +50875,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STANTON (EDWIN)" },
+			"properties": { "Name": "STANTON (EDWIN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50914,7 +50914,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARDING (FREDERICK)" },
+			"properties": { "Name": "HARDING (FREDERICK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50932,7 +50932,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DURSO (JOHN)" },
+			"properties": { "Name": "DURSO (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50950,7 +50950,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DAWES (CHARLES)" },
+			"properties": { "Name": "DAWES (CHARLES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -50975,7 +50975,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AUSTIN (HENRY)" },
+			"properties": { "Name": "AUSTIN (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51019,7 +51019,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SKINNER (MARK)" },
+			"properties": { "Name": "SKINNER (MARK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51039,7 +51039,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NINEBARK" },
+			"properties": { "Name": "NINEBARK" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51057,7 +51057,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KENNICOTT (JONATHAN)" },
+			"properties": { "Name": "KENNICOTT (JONATHAN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51082,7 +51082,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "VITTUM (HARRIET ELIZABETH)" },
+			"properties": { "Name": "VITTUM (HARRIET ELIZABETH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51146,7 +51146,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CARVER (GEORGE WASHINGTON)" },
+			"properties": { "Name": "CARVER (GEORGE WASHINGTON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51242,7 +51242,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RIVER ESPLANADE" },
+			"properties": { "Name": "RIVER ESPLANADE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51291,7 +51291,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 536" },
+			"properties": { "Name": "PARK NO. 536" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51308,7 +51308,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JACKSON (MAHALIA)" },
+			"properties": { "Name": "JACKSON (MAHALIA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51330,7 +51330,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MILLARD (ALDEN)" },
+			"properties": { "Name": "MILLARD (ALDEN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51348,7 +51348,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MIAMI" },
+			"properties": { "Name": "MIAMI" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51378,7 +51378,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WILSON (JOHN)" },
+			"properties": { "Name": "WILSON (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51399,7 +51399,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BRIGHTON" },
+			"properties": { "Name": "BRIGHTON" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51417,7 +51417,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "STATEWAY" },
+			"properties": { "Name": "STATEWAY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51437,7 +51437,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JACKSON (ROBERT)" },
+			"properties": { "Name": "JACKSON (ROBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51455,7 +51455,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KENWOOD COMM." },
+			"properties": { "Name": "KENWOOD COMM." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51477,7 +51477,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EUGENIE TRIANGLE" },
+			"properties": { "Name": "EUGENIE TRIANGLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51494,7 +51494,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORMANDY" },
+			"properties": { "Name": "NORMANDY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51515,7 +51515,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SHERWOOD (JESSE)" },
+			"properties": { "Name": "SHERWOOD (JESSE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51545,7 +51545,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LINDBLOM (ROBERT)" },
+			"properties": { "Name": "LINDBLOM (ROBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51594,7 +51594,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "VALLEY FORGE" },
+			"properties": { "Name": "VALLEY FORGE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51620,7 +51620,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HUCKLEBERRY" },
+			"properties": { "Name": "HUCKLEBERRY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51702,7 +51702,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MOCCASIN RANCH" },
+			"properties": { "Name": "MOCCASIN RANCH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51720,7 +51720,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LAWLER (MICHAEL)" },
+			"properties": { "Name": "LAWLER (MICHAEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51752,7 +51752,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FLYING SQUIRREL" },
+			"properties": { "Name": "FLYING SQUIRREL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51770,7 +51770,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MONTGOMERY (MABEL)" },
+			"properties": { "Name": "MONTGOMERY (MABEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51788,7 +51788,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WOODHULL (ROSS)" },
+			"properties": { "Name": "WOODHULL (ROSS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51810,7 +51810,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HODES (BARNET)" },
+			"properties": { "Name": "HODES (BARNET)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51830,7 +51830,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MURRAY (DAVID)" },
+			"properties": { "Name": "MURRAY (DAVID)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51850,7 +51850,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KING (MARTIN LUTHER, JR.)" },
+			"properties": { "Name": "KING (MARTIN LUTHER, JR.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51872,7 +51872,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COLE (NAT KING)" },
+			"properties": { "Name": "COLE (NAT KING)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51890,7 +51890,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EUCLID" },
+			"properties": { "Name": "EUCLID" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51912,7 +51912,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TRUMBULL (LYMAN)" },
+			"properties": { "Name": "TRUMBULL (LYMAN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -51981,7 +51981,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 540" },
+			"properties": { "Name": "PARK NO. 540" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52004,7 +52004,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 567" },
+			"properties": { "Name": "PARK NO. 567" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52022,7 +52022,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MORGAN PARK SPORTS CENTER" },
+			"properties": { "Name": "MORGAN PARK SPORTS CENTER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52047,7 +52047,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 574" },
+			"properties": { "Name": "PARK NO. 574" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52077,7 +52077,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARTIGAN (DAVID) BEACH" },
+			"properties": { "Name": "HARTIGAN (DAVID) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52122,7 +52122,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MILLER (SAMUEL)" },
+			"properties": { "Name": "MILLER (SAMUEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52140,7 +52140,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BEILFUSS (ALBERT W.)" },
+			"properties": { "Name": "BEILFUSS (ALBERT W.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52160,7 +52160,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BOLER (LEO ROSCOE, SR.)" },
+			"properties": { "Name": "BOLER (LEO ROSCOE, SR.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52194,7 +52194,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "VIOLET" },
+			"properties": { "Name": "VIOLET" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52212,7 +52212,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROOSEVELT (THEODORE)" },
+			"properties": { "Name": "ROOSEVELT (THEODORE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52232,7 +52232,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WARD (A. MONTGOMERY)" },
+			"properties": { "Name": "WARD (A. MONTGOMERY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52280,7 +52280,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CENTENNIAL" },
+			"properties": { "Name": "CENTENNIAL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52339,7 +52339,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SENN (NICHOLAS)" },
+			"properties": { "Name": "SENN (NICHOLAS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52401,7 +52401,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BATTLE OF FORT DEARBORN" },
+			"properties": { "Name": "BATTLE OF FORT DEARBORN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52428,7 +52428,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HORNBEAM" },
+			"properties": { "Name": "HORNBEAM" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52447,7 +52447,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BARRETT (JOHN)" },
+			"properties": { "Name": "BARRETT (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52465,7 +52465,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LAKE MEADOWS" },
+			"properties": { "Name": "LAKE MEADOWS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52493,7 +52493,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WINNEMAC" },
+			"properties": { "Name": "WINNEMAC" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52529,7 +52529,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LE CLAIRE COURTS - HEARST COMM. CTR" },
+			"properties": { "Name": "LE CLAIRE COURTS - HEARST COMM. CTR" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52767,7 +52767,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TAYLOR (ROBERT ROCHON)" },
+			"properties": { "Name": "TAYLOR (ROBERT ROCHON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52796,7 +52796,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SYCAMORE" },
+			"properties": { "Name": "SYCAMORE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52814,7 +52814,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 421" },
+			"properties": { "Name": "PARK NO. 421" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52841,7 +52841,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CORNELL (PAUL)" },
+			"properties": { "Name": "CORNELL (PAUL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52859,7 +52859,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LUNA" },
+			"properties": { "Name": "LUNA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52884,7 +52884,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MORAN (TERRANCE)" },
+			"properties": { "Name": "MORAN (TERRANCE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52904,7 +52904,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TAYLOR-LAURIDSEN (JOHN, EMIL)" },
+			"properties": { "Name": "TAYLOR-LAURIDSEN (JOHN, EMIL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52924,7 +52924,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HALE (NATHAN)" },
+			"properties": { "Name": "HALE (NATHAN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52977,7 +52977,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TILL-MOBLEY (MAMIE)" },
+			"properties": { "Name": "TILL-MOBLEY (MAMIE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -52996,7 +52996,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OGDEN (WILLIAM)" },
+			"properties": { "Name": "OGDEN (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53197,7 +53197,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DREXEL (FRANCIS)" },
+			"properties": { "Name": "DREXEL (FRANCIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53217,7 +53217,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MEYERING (WILLIAM)" },
+			"properties": { "Name": "MEYERING (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53235,7 +53235,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LYLE (JOHN)" },
+			"properties": { "Name": "LYLE (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53276,7 +53276,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WALLACE" },
+			"properties": { "Name": "WALLACE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53294,7 +53294,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SHERIDAN (PHILIP HENRY)" },
+			"properties": { "Name": "SHERIDAN (PHILIP HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53319,7 +53319,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "RIDGE" },
+			"properties": { "Name": "RIDGE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53370,7 +53370,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BEVERLY" },
+			"properties": { "Name": "BEVERLY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53392,7 +53392,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BARNARD (ERASTUS)" },
+			"properties": { "Name": "BARNARD (ERASTUS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53414,7 +53414,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WHITE (JESSE)" },
+			"properties": { "Name": "WHITE (JESSE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53434,7 +53434,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORTH BOUNDARY" },
+			"properties": { "Name": "NORTH BOUNDARY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53458,7 +53458,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 566" },
+			"properties": { "Name": "PARK NO. 566" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53518,7 +53518,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LA VILLITA" },
+			"properties": { "Name": "LA VILLITA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53545,7 +53545,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ABBOTT (ROBERT)" },
+			"properties": { "Name": "ABBOTT (ROBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53590,7 +53590,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WANG (CHI CHE)" },
+			"properties": { "Name": "WANG (CHI CHE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53611,7 +53611,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DUNHAM (ROBERT)" },
+			"properties": { "Name": "DUNHAM (ROBERT)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53649,7 +53649,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WHITE (WILLYE B.)" },
+			"properties": { "Name": "WHITE (WILLYE B.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53671,7 +53671,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 526" },
+			"properties": { "Name": "PARK NO. 526" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53783,7 +53783,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HOWARD (URE) BEACH" },
+			"properties": { "Name": "HOWARD (URE) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53812,7 +53812,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DUBKIN (LEONARD)" },
+			"properties": { "Name": "DUBKIN (LEONARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53839,7 +53839,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PASCHEN (CHRISTIAN)" },
+			"properties": { "Name": "PASCHEN (CHRISTIAN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53857,7 +53857,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LERNER (LEO)" },
+			"properties": { "Name": "LERNER (LEO)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53884,7 +53884,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GREEN (JEFFREY)" },
+			"properties": { "Name": "GREEN (JEFFREY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53901,7 +53901,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORWOOD CIRCLE" },
+			"properties": { "Name": "NORWOOD CIRCLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53930,7 +53930,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ROSEDALE" },
+			"properties": { "Name": "ROSEDALE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -53965,7 +53965,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORWOOD" },
+			"properties": { "Name": "NORWOOD" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54048,7 +54048,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PULLMAN (GEORGE)" },
+			"properties": { "Name": "PULLMAN (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54104,7 +54104,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ARCADE" },
+			"properties": { "Name": "ARCADE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54122,7 +54122,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ALMOND" },
+			"properties": { "Name": "ALMOND" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54185,7 +54185,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "METCALFE (RALPH)" },
+			"properties": { "Name": "METCALFE (RALPH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54340,7 +54340,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MERRIMAC" },
+			"properties": { "Name": "MERRIMAC" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54384,7 +54384,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MERRYMAN (THERON)" },
+			"properties": { "Name": "MERRYMAN (THERON)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54402,7 +54402,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AMUNDSEN (ROALD)" },
+			"properties": { "Name": "AMUNDSEN (ROALD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54420,7 +54420,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GRAPE" },
+			"properties": { "Name": "GRAPE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54442,7 +54442,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SIMONS (ALMIRA)" },
+			"properties": { "Name": "SIMONS (ALMIRA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54474,7 +54474,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GOUDY (WILLIAM) SQUARE" },
+			"properties": { "Name": "GOUDY (WILLIAM) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54501,7 +54501,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MARIANO (LOUIS)" },
+			"properties": { "Name": "MARIANO (LOUIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54538,7 +54538,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LINDEN" },
+			"properties": { "Name": "LINDEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54556,7 +54556,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "DAVIS (MARGARET)" },
+			"properties": { "Name": "DAVIS (MARGARET)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54574,7 +54574,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ORR (REZIN)" },
+			"properties": { "Name": "ORR (REZIN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54598,7 +54598,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SMITH (JOSEPH HIGGINS)" },
+			"properties": { "Name": "SMITH (JOSEPH HIGGINS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54616,7 +54616,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HAZELNUT" },
+			"properties": { "Name": "HAZELNUT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54636,7 +54636,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SNAPPING TURTLE" },
+			"properties": { "Name": "SNAPPING TURTLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54655,7 +54655,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GINKGO" },
+			"properties": { "Name": "GINKGO" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54762,7 +54762,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CRAWFORD (PETER)" },
+			"properties": { "Name": "CRAWFORD (PETER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54780,7 +54780,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TOM (PING) MEML." },
+			"properties": { "Name": "TOM (PING) MEML." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -54879,7 +54879,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "NORTH PARK NATURE CENTER" },
+			"properties": { "Name": "NORTH PARK NATURE CENTER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55009,7 +55009,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "FOSCO (PETER)" },
+			"properties": { "Name": "FOSCO (PETER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55035,7 +55035,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WAGNER (CLARENCE)" },
+			"properties": { "Name": "WAGNER (CLARENCE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55062,7 +55062,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CLARK (RICHARD)" },
+			"properties": { "Name": "CLARK (RICHARD)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55170,7 +55170,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ADAMS (JOHN C.)" },
+			"properties": { "Name": "ADAMS (JOHN C.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55216,7 +55216,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WILLIAMS-DAVIS (HATTIE KAY,IZORA)" },
+			"properties": { "Name": "WILLIAMS-DAVIS (HATTIE KAY,IZORA)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55290,7 +55290,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LIMAS (JULIANN HOPE)" },
+			"properties": { "Name": "LIMAS (JULIANN HOPE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55310,7 +55310,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BARAGA (FREDERICK)" },
+			"properties": { "Name": "BARAGA (FREDERICK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55328,7 +55328,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WILSON (JOHN) COMM. CTR." },
+			"properties": { "Name": "WILSON (JOHN) COMM. CTR." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55348,7 +55348,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ASPEN" },
+			"properties": { "Name": "ASPEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55366,7 +55366,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HONEYSUCKLE" },
+			"properties": { "Name": "HONEYSUCKLE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55386,7 +55386,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SPRUCE" },
+			"properties": { "Name": "SPRUCE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55409,7 +55409,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MICEK (FRANK)" },
+			"properties": { "Name": "MICEK (FRANK)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55432,7 +55432,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MALUS" },
+			"properties": { "Name": "MALUS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55452,7 +55452,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HANSBERRY (LORRAINE)" },
+			"properties": { "Name": "HANSBERRY (LORRAINE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55470,7 +55470,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BEEHIVE" },
+			"properties": { "Name": "BEEHIVE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55488,7 +55488,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "JUNCTION GROVE" },
+			"properties": { "Name": "JUNCTION GROVE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55506,7 +55506,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "OAKLEY" },
+			"properties": { "Name": "OAKLEY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55524,7 +55524,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LELAND GIANTS" },
+			"properties": { "Name": "LELAND GIANTS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55557,7 +55557,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ESSEX" },
+			"properties": { "Name": "ESSEX" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55581,7 +55581,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "AUBURN" },
+			"properties": { "Name": "AUBURN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55824,7 +55824,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GATELY (JAMES)" },
+			"properties": { "Name": "GATELY (JAMES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55842,7 +55842,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BLOCK" },
+			"properties": { "Name": "BLOCK" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55873,7 +55873,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HEGEWISCH MARSH" },
+			"properties": { "Name": "HEGEWISCH MARSH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55923,7 +55923,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "LANGLEY" },
+			"properties": { "Name": "LANGLEY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55941,7 +55941,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 562" },
+			"properties": { "Name": "PARK NO. 562" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -55988,7 +55988,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 559" },
+			"properties": { "Name": "PARK NO. 559" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56006,7 +56006,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 534" },
+			"properties": { "Name": "PARK NO. 534" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56033,7 +56033,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SAUGANASH TRAIL" },
+			"properties": { "Name": "SAUGANASH TRAIL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56113,7 +56113,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 568" },
+			"properties": { "Name": "PARK NO. 568" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56161,7 +56161,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 543" },
+			"properties": { "Name": "PARK NO. 543" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56186,7 +56186,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BOSLEY (WILLIAM)" },
+			"properties": { "Name": "BOSLEY (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56216,7 +56216,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARRIS (RYAN) MEMORIAL" },
+			"properties": { "Name": "HARRIS (RYAN) MEMORIAL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -56243,7 +56243,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CALUMET" },
+			"properties": { "Name": "CALUMET" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57132,7 +57132,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GILL (JOSEPH)" },
+			"properties": { "Name": "GILL (JOSEPH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57168,7 +57168,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PINE" },
+			"properties": { "Name": "PINE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57281,7 +57281,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 474" },
+			"properties": { "Name": "PARK NO. 474" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57299,7 +57299,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 519" },
+			"properties": { "Name": "PARK NO. 519" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57317,7 +57317,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BROOKS (OSCAR)" },
+			"properties": { "Name": "BROOKS (OSCAR)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57348,7 +57348,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "QUINN (MARY)" },
+			"properties": { "Name": "QUINN (MARY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57379,7 +57379,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MELLIN (CURTIS, SR.)" },
+			"properties": { "Name": "MELLIN (CURTIS, SR.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57399,7 +57399,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BUTTERCUP" },
+			"properties": { "Name": "BUTTERCUP" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57422,7 +57422,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PRINZ (TOBEY) BEACH" },
+			"properties": { "Name": "PRINZ (TOBEY) BEACH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57467,7 +57467,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ASTER" },
+			"properties": { "Name": "ASTER" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57485,7 +57485,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CLARENDON COMM. CTR." },
+			"properties": { "Name": "CLARENDON COMM. CTR." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57519,7 +57519,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MANN (JAMES)" },
+			"properties": { "Name": "MANN (JAMES)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57731,7 +57731,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "WEBSTER (DANIEL)" },
+			"properties": { "Name": "WEBSTER (DANIEL)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57749,7 +57749,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HORNER (HENRY)" },
+			"properties": { "Name": "HORNER (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57893,7 +57893,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PORTAGE" },
+			"properties": { "Name": "PORTAGE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -57946,7 +57946,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HAYES (FRANCIS)" },
+			"properties": { "Name": "HAYES (FRANCIS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58002,7 +58002,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BRANDS" },
+			"properties": { "Name": "BRANDS" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58023,7 +58023,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EVERGREEN" },
+			"properties": { "Name": "EVERGREEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58041,7 +58041,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MARTIN (JOHNNY)" },
+			"properties": { "Name": "MARTIN (JOHNNY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58061,7 +58061,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KEN-WELL" },
+			"properties": { "Name": "KEN-WELL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58090,7 +58090,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BELL (GEORGE,JR.)" },
+			"properties": { "Name": "BELL (GEORGE,JR.)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58108,7 +58108,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK WEST" },
+			"properties": { "Name": "PARK WEST" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58126,7 +58126,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MID-NORTH" },
+			"properties": { "Name": "MID-NORTH" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58158,7 +58158,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "TREBES" },
+			"properties": { "Name": "TREBES" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58177,7 +58177,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HERMOSA" },
+			"properties": { "Name": "HERMOSA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58196,7 +58196,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MOZART (AMADEUS)" },
+			"properties": { "Name": "MOZART (AMADEUS)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58214,7 +58214,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "EHRLER (WILLIAM)" },
+			"properties": { "Name": "EHRLER (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58233,7 +58233,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PRIVET" },
+			"properties": { "Name": "PRIVET" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58252,7 +58252,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GREENEBAUM (HENRY)" },
+			"properties": { "Name": "GREENEBAUM (HENRY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58279,7 +58279,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CONNORS (WILLIAM)" },
+			"properties": { "Name": "CONNORS (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58296,7 +58296,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COMMERCIAL CLUB PGD. of CHICAGO" },
+			"properties": { "Name": "COMMERCIAL CLUB PGD. of CHICAGO" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58314,7 +58314,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ADDAMS (JANE) MEML." },
+			"properties": { "Name": "ADDAMS (JANE) MEML." },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58374,7 +58374,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 382" },
+			"properties": { "Name": "PARK NO. 382" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58395,7 +58395,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "GARIBALDI (GIUSEPPI)" },
+			"properties": { "Name": "GARIBALDI (GIUSEPPI)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58436,7 +58436,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MAGNOLIA" },
+			"properties": { "Name": "MAGNOLIA" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58455,7 +58455,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HERITAGE GREEN" },
+			"properties": { "Name": "HERITAGE GREEN" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58476,7 +58476,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BARTELME (MARY)" },
+			"properties": { "Name": "BARTELME (MARY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58494,7 +58494,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "COTTON TAIL" },
+			"properties": { "Name": "COTTON TAIL" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58519,7 +58519,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "CORNELL (PAUL) SQUARE" },
+			"properties": { "Name": "CORNELL (PAUL) SQUARE" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58537,7 +58537,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 569" },
+			"properties": { "Name": "PARK NO. 569" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58555,7 +58555,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ANDERSON (FRED)" },
+			"properties": { "Name": "ANDERSON (FRED)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58573,7 +58573,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARRISON (CARTER)" },
+			"properties": { "Name": "HARRISON (CARTER)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58673,7 +58673,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MULBERRY" },
+			"properties": { "Name": "MULBERRY" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58694,7 +58694,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "KUCINSKI-MURPHY (VICKI, ROSEBETH)" },
+			"properties": { "Name": "KUCINSKI-MURPHY (VICKI, ROSEBETH)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58712,7 +58712,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "MCKINLEY (WILLIAM)" },
+			"properties": { "Name": "MCKINLEY (WILLIAM)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58978,7 +58978,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "HARDING (GEORGE)" },
+			"properties": { "Name": "HARDING (GEORGE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -58998,7 +58998,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SHERMAN (JOHN)" },
+			"properties": { "Name": "SHERMAN (JOHN)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59359,7 +59359,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BUTTERNUT" },
+			"properties": { "Name": "BUTTERNUT" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59377,7 +59377,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "SENKA (EDWARD \"DUKE\")" },
+			"properties": { "Name": "SENKA (EDWARD \"DUKE\")" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59415,7 +59415,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "BIXLER (RAY)" },
+			"properties": { "Name": "BIXLER (RAY)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59433,7 +59433,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 573" },
+			"properties": { "Name": "PARK NO. 573" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59468,7 +59468,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "ADDAMS (JANE)" },
+			"properties": { "Name": "ADDAMS (JANE)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59493,7 +59493,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 581" },
+			"properties": { "Name": "PARK NO. 581" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59575,7 +59575,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 580" },
+			"properties": { "Name": "PARK NO. 580" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -59607,7 +59607,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 565" },
+			"properties": { "Name": "PARK NO. 565" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -60486,7 +60486,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "park": "PARK NO. 578" },
+			"properties": { "Name": "PARK NO. 578" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [

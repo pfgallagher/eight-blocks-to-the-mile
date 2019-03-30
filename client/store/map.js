@@ -29,9 +29,14 @@ const initialState = [];
 
 const dispatchers = {
 	[GET_GEOJSON]: (state, action) => [...state, action.layer],
-	[REMOVE_LAYER]: (state, action) => [
-		...state.filter(el => el.name !== action.layer),
-	],
+	[REMOVE_LAYER]: (state, action) => {
+		[...state].map(el => {
+			console.log("el.name:", el.name);
+			console.log("action.layer", action.layer);
+			console.log("el.name === action.layer?", el.name === action.layer);
+		});
+		return [...state.filter(el => el.name !== action.layer)];
+	},
 };
 
 export default (state = initialState, action) => {

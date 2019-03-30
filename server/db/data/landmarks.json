@@ -1,14 +1,14 @@
 {
 	"type": "FeatureCollection",
-	"name": "landmarks",
+	"Name": "landmarks",
 	"crs": {
-		"type": "name",
-		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+		"type": "Name",
+		"properties": { "Name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
 	},
 	"features": [
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago & North Western Railway Powerhouse" },
+			"properties": { "Name": "Chicago & North Western Railway Powerhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -49,7 +49,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Haskell-Barker-Atwater Buildings" },
+			"properties": { "Name": "Haskell-Barker-Atwater Buildings" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -71,7 +71,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "F. R. Schock House" },
+			"properties": { "Name": "F. R. Schock House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Site of the Sauganash Hotel/Wigwam" },
+			"properties": { "Name": "Site of the Sauganash Hotel/Wigwam" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -112,7 +112,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Abraham Lincoln Monument (\"Standing Lincoln\")"
+				"Name": "Abraham Lincoln Monument (\"Standing Lincoln\")"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -152,7 +152,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Humboldt Park Boathouse Pavilion" },
+			"properties": { "Name": "Humboldt Park Boathouse Pavilion" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -173,7 +173,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Jane Addams' Hull House and Dining Hall" },
+			"properties": { "Name": "Jane Addams' Hull House and Dining Hall" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -204,7 +204,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Waller Apartments" },
+			"properties": { "Name": "Waller Apartments" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -247,7 +247,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Engine Company 104, Truck 3" },
+			"properties": { "Name": "(Former) Engine Company 104, Truck 3" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -267,7 +267,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Farwell Building" },
+			"properties": { "Name": "Farwell Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -285,7 +285,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Soldiers' Home" },
+			"properties": { "Name": "Soldiers' Home" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -309,7 +309,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Wheeler-Kohn House" },
+			"properties": { "Name": "Wheeler-Kohn House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -331,7 +331,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Tree Studios, Annexes and Courtyard" },
+			"properties": { "Name": "Tree Studios, Annexes and Courtyard" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -353,7 +353,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Reebie Storage Warehouse" },
+			"properties": { "Name": "Reebie Storage Warehouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -376,7 +376,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "South Side Community Art Center" },
+			"properties": { "Name": "South Side Community Art Center" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -395,7 +395,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Brooks Building" },
+			"properties": { "Name": "Brooks Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -413,7 +413,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "John Wingert House" },
+			"properties": { "Name": "John Wingert House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -433,7 +433,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "35 East Wacker Building" },
+			"properties": { "Name": "35 East Wacker Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -463,7 +463,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Allan Miller House" },
+			"properties": { "Name": "Allan Miller House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -483,7 +483,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago City  Bank & Trust Co" },
+			"properties": { "Name": "Chicago City  Bank & Trust Co" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -507,7 +507,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Mathilde Eliel House" },
+			"properties": { "Name": "Mathilde Eliel House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -525,7 +525,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Drake Fountain" },
+			"properties": { "Name": "Drake Fountain" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -855,7 +855,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Theater" },
+			"properties": { "Name": "Chicago Theater" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -892,7 +892,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Mundelein College Skyscraper Building" },
+			"properties": { "Name": "Mundelein College Skyscraper Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -918,7 +918,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Frederick C. Robie House" },
+			"properties": { "Name": "Frederick C. Robie House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -940,7 +940,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "On Leong Merchants Association" },
+			"properties": { "Name": "On Leong Merchants Association" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -966,7 +966,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Fisher Studio Houses" },
+			"properties": { "Name": "Fisher Studio Houses" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -985,7 +985,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Home Bank & Trust Company" },
+			"properties": { "Name": "Home Bank & Trust Company" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1012,7 +1012,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Reliance Building" },
+			"properties": { "Name": "Reliance Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1030,7 +1030,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Wrigley Field" },
+			"properties": { "Name": "Wrigley Field" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1057,7 +1057,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Roanoke Building and Tower" },
+			"properties": { "Name": "Roanoke Building and Tower" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1081,7 +1081,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Engine Company 35, Truck 28" },
+			"properties": { "Name": "(Former) Engine Company 35, Truck 28" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1101,7 +1101,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chess Records Office and Studio" },
+			"properties": { "Name": "Chess Records Office and Studio" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1119,7 +1119,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Ransom R Cable House" },
+			"properties": { "Name": "Ransom R Cable House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Union Park Hotel" },
+			"properties": { "Name": "Union Park Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1166,7 +1166,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Richard Nickel Studio" },
+			"properties": { "Name": "Richard Nickel Studio" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1186,7 +1186,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Third Unitarian Church Building" },
+			"properties": { "Name": "Third Unitarian Church Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1212,7 +1212,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Holy Trinity Orthodox Cathedral and Rectory" },
+			"properties": { "Name": "Holy Trinity Orthodox Cathedral and Rectory" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1235,7 +1235,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Engine Company 42 Firehouse" },
+			"properties": { "Name": "(Former) Engine Company 42 Firehouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1255,7 +1255,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "New York Life Building" },
+			"properties": { "Name": "New York Life Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1288,7 +1288,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Delaware Building" },
+			"properties": { "Name": "Delaware Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1334,7 +1334,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Michigan Avenue Bridge and Wacker Dr Esplanade"
+				"Name": "Michigan Avenue Bridge and Wacker Dr Esplanade"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -1409,7 +1409,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Robert W. Roloson Houses" },
+			"properties": { "Name": "Robert W. Roloson Houses" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1439,7 +1439,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "James A. Sexton School" },
+			"properties": { "Name": "James A. Sexton School" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1474,7 +1474,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Old Dearborn Bank Building" },
+			"properties": { "Name": "Old Dearborn Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1494,7 +1494,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Fisher Building" },
+			"properties": { "Name": "Fisher Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1516,7 +1516,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 78" },
+			"properties": { "Name": "Engine Company 78" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1536,7 +1536,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "West Town State Bank Building" },
+			"properties": { "Name": "West Town State Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1558,7 +1558,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Canaan Baptist Church of Christ Building" },
+			"properties": { "Name": "Canaan Baptist Church of Christ Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1579,7 +1579,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Calumet Park Fieldhouse" },
+			"properties": { "Name": "Calumet Park Fieldhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1639,7 +1639,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Illinois Central Swing Bridge" },
+			"properties": { "Name": "Illinois Central Swing Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1657,7 +1657,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Auditorium Building" },
+			"properties": { "Name": "Auditorium Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1688,7 +1688,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Palmer House Hotel" },
+			"properties": { "Name": "Palmer House Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1717,7 +1717,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Palliser's Cottage Home No. 35" },
+			"properties": { "Name": "Palliser's Cottage Home No. 35" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1735,7 +1735,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Rosehill Cemetery Entrance" },
+			"properties": { "Name": "Rosehill Cemetery Entrance" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1783,7 +1783,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Henry Gerber House" },
+			"properties": { "Name": "Henry Gerber House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1801,7 +1801,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Assumption School" },
+			"properties": { "Name": "Assumption School" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1823,7 +1823,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Bryn Mawr Apartment Hotel" },
+			"properties": { "Name": "Bryn Mawr Apartment Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1847,7 +1847,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Engine Company 27" },
+			"properties": { "Name": "(Former) Engine Company 27" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1867,7 +1867,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Lake-Franklin Group" },
+			"properties": { "Name": "Lake-Franklin Group" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1892,7 +1892,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) South Side Trust Bank Bldg" },
+			"properties": { "Name": "(Former) South Side Trust Bank Bldg" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1912,7 +1912,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "American System-Built Houses" },
+			"properties": { "Name": "American System-Built Houses" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -1931,7 +1931,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Site of the Origin of the Chicago Fire of 1871"
+				"Name": "Site of the Origin of the Chicago Fire of 1871"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -1952,7 +1952,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Daley Center" },
+			"properties": { "Name": "Daley Center" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2000,7 +2000,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Peoples Gas-South Chicago Neighborhood Store" },
+			"properties": { "Name": "Peoples Gas-South Chicago Neighborhood Store" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2020,7 +2020,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 61" },
+			"properties": { "Name": "Engine Company 61" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2038,7 +2038,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Navy Pier (Headhouse and East End Building)" },
+			"properties": { "Name": "Navy Pier (Headhouse and East End Building)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2190,7 +2190,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Dr. Wallace C. Abbott House" },
+			"properties": { "Name": "Dr. Wallace C. Abbott House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2210,7 +2210,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Vassar Swiss Underwear Company Building" },
+			"properties": { "Name": "Vassar Swiss Underwear Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2250,7 +2250,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Laramie State Bank Building" },
+			"properties": { "Name": "Laramie State Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2270,7 +2270,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Immaculata High School & Convent Buildings" },
+			"properties": { "Name": "Immaculata High School & Convent Buildings" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2306,7 +2306,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Marquette Building" },
+			"properties": { "Name": "Marquette Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2327,7 +2327,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago & Northwestern Bridge" },
+			"properties": { "Name": "Chicago & Northwestern Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2345,7 +2345,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Keck-Gottschalk-Keck Apartments" },
+			"properties": { "Name": "Keck-Gottschalk-Keck Apartments" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2364,7 +2364,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Perkins, Fellows & Hamilton Office and Studio" },
+			"properties": { "Name": "Perkins, Fellows & Hamilton Office and Studio" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2382,7 +2382,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "McGraw-Hill Building" },
+			"properties": { "Name": "McGraw-Hill Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2416,7 +2416,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Goldblatt Bros. Department Store" },
+			"properties": { "Name": "Goldblatt Bros. Department Store" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2454,7 +2454,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Union Station" },
+			"properties": { "Name": "Union Station" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago and Alton Bridge" },
+			"properties": { "Name": "Chicago and Alton Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2492,7 +2492,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Eighth Church of Christ, Scientist" },
+			"properties": { "Name": "Eighth Church of Christ, Scientist" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2514,7 +2514,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Jewish People's Institute" },
+			"properties": { "Name": "Jewish People's Institute" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2546,7 +2546,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Marshall Field and Company Building" },
+			"properties": { "Name": "Marshall Field and Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2596,7 +2596,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Northwestern University Settlement House" },
+			"properties": { "Name": "Northwestern University Settlement House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2622,7 +2622,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Stephen Race House" },
+			"properties": { "Name": "Stephen Race House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2640,7 +2640,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Rockefeller Memorial Chapel" },
+			"properties": { "Name": "Rockefeller Memorial Chapel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "DuPont-Whitehouse House" },
+			"properties": { "Name": "DuPont-Whitehouse House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Lion House - Lincoln Park Zoo" },
+			"properties": { "Name": "Lion House - Lincoln Park Zoo" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2831,7 +2831,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Palmolive Building" },
+			"properties": { "Name": "Palmolive Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2853,7 +2853,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Belle Shore Apartment Hotel" },
+			"properties": { "Name": "Belle Shore Apartment Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2873,7 +2873,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Illinois-Indiana State Line Boundary Marker" },
+			"properties": { "Name": "Illinois-Indiana State Line Boundary Marker" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -2997,7 +2997,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Tribune Tower" },
+			"properties": { "Name": "Tribune Tower" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3027,7 +3027,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Carbide and Carbon Building" },
+			"properties": { "Name": "Carbide and Carbon Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3056,7 +3056,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Board of Trade Building" },
+			"properties": { "Name": "Chicago Board of Trade Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3077,7 +3077,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "IBM Building" },
+			"properties": { "Name": "IBM Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3127,7 +3127,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Garfield Boulevard \"L\" Station and Overpass" },
+			"properties": { "Name": "Garfield Boulevard \"L\" Station and Overpass" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3161,7 +3161,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Site of the John & Mary Jones House" },
+			"properties": { "Name": "Site of the John & Mary Jones House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3206,7 +3206,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Harris and Selwyn Theaters" },
+			"properties": { "Name": "Harris and Selwyn Theaters" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3234,7 +3234,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Beeson House and Coach House" },
+			"properties": { "Name": "Beeson House and Coach House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3256,7 +3256,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Manhattan Building" },
+			"properties": { "Name": "Manhattan Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3278,7 +3278,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Majestic Building and Theater" },
+			"properties": { "Name": "Majestic Building and Theater" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3300,7 +3300,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Carson Pirie Scott & Company Building" },
+			"properties": { "Name": "Carson Pirie Scott & Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3327,7 +3327,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Theurer-Wrigley House" },
+			"properties": { "Name": "Theurer-Wrigley House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3351,7 +3351,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Francis J. Dewes House" },
+			"properties": { "Name": "Francis J. Dewes House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3371,7 +3371,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Reid, Murdoch and Company Building" },
+			"properties": { "Name": "Reid, Murdoch and Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3405,7 +3405,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Indian Boundary Park Fieldhouse" },
+			"properties": { "Name": "Indian Boundary Park Fieldhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3425,7 +3425,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 45, Truck 15" },
+			"properties": { "Name": "Engine Company 45, Truck 15" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3445,7 +3445,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Illinois Central Swing Bridge" },
+			"properties": { "Name": "Illinois Central Swing Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3464,7 +3464,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Sears, Roebuck and Company Administration Building"
+				"Name": "Sears, Roebuck and Company Administration Building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -3497,7 +3497,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "St Charles Air Line Bridge" },
+			"properties": { "Name": "St Charles Air Line Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3515,7 +3515,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Museum of Science and Industry" },
+			"properties": { "Name": "Museum of Science and Industry" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3557,7 +3557,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Yale Apartments" },
+			"properties": { "Name": "Yale Apartments" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3578,7 +3578,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Site of Haymarket Tragedy" },
+			"properties": { "Name": "Site of Haymarket Tragedy" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3619,7 +3619,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "City Hall-County Building" },
+			"properties": { "Name": "City Hall-County Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3637,7 +3637,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Crown Hall" },
+			"properties": { "Name": "Crown Hall" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3656,7 +3656,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Charles N. Loucks House" },
+			"properties": { "Name": "Charles N. Loucks House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3676,7 +3676,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Lindemann and Hoverson Company" },
+			"properties": { "Name": "Lindemann and Hoverson Company" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3694,7 +3694,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Cosmopolitan State Bank Building" },
+			"properties": { "Name": "(Former) Cosmopolitan State Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3712,7 +3712,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "300 West Adams Street Office Building" },
+			"properties": { "Name": "300 West Adams Street Office Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3736,7 +3736,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Orphan Asylum Building" },
+			"properties": { "Name": "Chicago Orphan Asylum Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3759,7 +3759,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "North Chicago Hospital Building" },
+			"properties": { "Name": "North Chicago Hospital Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3786,7 +3786,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Village Theatre" },
+			"properties": { "Name": "Village Theatre" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3804,7 +3804,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Kimbell Trust and Savings Bank Building" },
+			"properties": { "Name": "Kimbell Trust and Savings Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3826,7 +3826,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Marquette Park State Bank Building" },
+			"properties": { "Name": "(Former) Marquette Park State Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3851,7 +3851,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "John and Clara Merchant House" },
+			"properties": { "Name": "John and Clara Merchant House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3872,7 +3872,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Marshfield Trust and Savings Bank Bldg"
+				"Name": "(Former) Marshfield Trust and Savings Bank Bldg"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -3895,7 +3895,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Stock Yards National Bank Building" },
+			"properties": { "Name": "(Former) Stock Yards National Bank Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3913,7 +3913,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Marie Schock House" },
+			"properties": { "Name": "Marie Schock House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3931,7 +3931,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "London Guarantee Building" },
+			"properties": { "Name": "London Guarantee Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3965,7 +3965,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "All Saints Church and Rectory" },
+			"properties": { "Name": "All Saints Church and Rectory" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -3986,7 +3986,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Old Colony Building" },
+			"properties": { "Name": "Old Colony Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4008,7 +4008,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Statue of the Republic" },
+			"properties": { "Name": "Statue of the Republic" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4026,7 +4026,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Wood-Maxey-Boyd House" },
+			"properties": { "Name": "Wood-Maxey-Boyd House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4046,7 +4046,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Second Presbyterian Church" },
+			"properties": { "Name": "Second Presbyterian Church" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4068,7 +4068,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Page Brothers Building" },
+			"properties": { "Name": "Page Brothers Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4090,7 +4090,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Krause Music Store" },
+			"properties": { "Name": "Krause Music Store" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4108,7 +4108,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Schoenhofen Brewery" },
+			"properties": { "Name": "Schoenhofen Brewery" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4155,7 +4155,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Du Sable High School" },
+			"properties": { "Name": "Du Sable High School" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4228,7 +4228,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Portage Park Theatre Building" },
+			"properties": { "Name": "Portage Park Theatre Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4256,7 +4256,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Albert F. Madlener House" },
+			"properties": { "Name": "Albert F. Madlener House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4277,7 +4277,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Belmont-Sheffield Trust & Savings Bldg"
+				"Name": "(Former) Belmont-Sheffield Trust & Savings Bldg"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -4302,7 +4302,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Steuben Club Building" },
+			"properties": { "Name": "Steuben Club Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4321,7 +4321,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Metropolitan Apostolic Community Church Building"
+				"Name": "Metropolitan Apostolic Community Church Building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -4346,7 +4346,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "New Regal Theater" },
+			"properties": { "Name": "New Regal Theater" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4377,7 +4377,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Site of the 1st Self-Sustain Cont. Nuclear Chain"
+				"Name": "Site of the 1st Self-Sustain Cont. Nuclear Chain"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -4396,7 +4396,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "One North LaSalle Building" },
+			"properties": { "Name": "One North LaSalle Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4420,7 +4420,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Monadnock Block" },
+			"properties": { "Name": "Monadnock Block" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4451,7 +4451,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Allerton Hotel" },
+			"properties": { "Name": "Allerton Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4472,7 +4472,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Metropolitan Missionary Baptist Church" },
+			"properties": { "Name": "Metropolitan Missionary Baptist Church" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4493,7 +4493,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Charles D. Iglehart House" },
+			"properties": { "Name": "Charles D. Iglehart House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4511,7 +4511,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Hazelton-Mikota House" },
+			"properties": { "Name": "Hazelton-Mikota House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4529,7 +4529,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "John J. Glessner House" },
+			"properties": { "Name": "John J. Glessner House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4551,7 +4551,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Hotel St. Benedict Flats" },
+			"properties": { "Name": "Hotel St. Benedict Flats" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4576,7 +4576,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Courthouse Place" },
+			"properties": { "Name": "Courthouse Place" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4600,7 +4600,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Stephen Foster House and Stable" },
+			"properties": { "Name": "Stephen Foster House and Stable" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4622,7 +4622,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Rookery Building" },
+			"properties": { "Name": "Rookery Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4656,7 +4656,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Bush Temple of Music" },
+			"properties": { "Name": "Bush Temple of Music" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4680,7 +4680,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Pennsylania Bridge" },
+			"properties": { "Name": "Pennsylania Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4698,7 +4698,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Jackson-Thomas House" },
+			"properties": { "Name": "Jackson-Thomas House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4720,7 +4720,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Pate-Comiskey House" },
+			"properties": { "Name": "Pate-Comiskey House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4738,7 +4738,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Old Chicago Coast Guard Station" },
+			"properties": { "Name": "Old Chicago Coast Guard Station" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4772,7 +4772,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 65, Truck 52" },
+			"properties": { "Name": "Engine Company 65, Truck 52" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4794,7 +4794,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Isidore H. Heller House" },
+			"properties": { "Name": "Isidore H. Heller House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4814,7 +4814,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Jewelers  Building" },
+			"properties": { "Name": "Jewelers  Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4842,7 +4842,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Engine Company 86" },
+			"properties": { "Name": "(Former) Engine Company 86" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4862,7 +4862,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Biograph Theater" },
+			"properties": { "Name": "Biograph Theater" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4884,7 +4884,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Trustees System Service Building" },
+			"properties": { "Name": "Trustees System Service Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4904,7 +4904,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Harbor Lighthouse" },
+			"properties": { "Name": "Chicago Harbor Lighthouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4932,7 +4932,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Mather Tower" },
+			"properties": { "Name": "Mather Tower" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4952,7 +4952,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Brewster Apartments" },
+			"properties": { "Name": "Brewster Apartments" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -4970,7 +4970,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Montgomery Ward & Co. Catalog House" },
+			"properties": { "Name": "Montgomery Ward & Co. Catalog House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5001,7 +5001,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 59, Truck 47" },
+			"properties": { "Name": "Engine Company 59, Truck 47" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5019,7 +5019,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Kaufmann Store and Flats" },
+			"properties": { "Name": "Kaufmann Store and Flats" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5041,7 +5041,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Pittsfield Building" },
+			"properties": { "Name": "Pittsfield Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5064,7 +5064,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Oppenheimer-Goldblatt Bros. Department Store Bldg"
+				"Name": "Oppenheimer-Goldblatt Bros. Department Store Bldg"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -5085,7 +5085,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Cortland Street Drawbridge" },
+			"properties": { "Name": "Cortland Street Drawbridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5113,7 +5113,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Powhatan Apartments" },
+			"properties": { "Name": "Powhatan Apartments" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5132,7 +5132,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Noble-Seymour-Crippen House" },
+			"properties": { "Name": "Noble-Seymour-Crippen House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5170,7 +5170,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "63rd Street Bathing Pavilion" },
+			"properties": { "Name": "63rd Street Bathing Pavilion" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5250,7 +5250,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Heyworth Building" },
+			"properties": { "Name": "Heyworth Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5268,7 +5268,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Elks National Memorial Headquarters Building" },
+			"properties": { "Name": "Elks National Memorial Headquarters Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5303,7 +5303,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Continental And Commercial National Bank Building"
+				"Name": "Continental And Commercial National Bank Building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -5334,7 +5334,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Swedish American State Bank Bldg" },
+			"properties": { "Name": "(Former) Swedish American State Bank Bldg" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5352,7 +5352,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Bryan Lathrop House" },
+			"properties": { "Name": "Bryan Lathrop House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5379,7 +5379,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Jessie and William Adams House" },
+			"properties": { "Name": "Jessie and William Adams House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5399,7 +5399,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "333 North Michigan Building" },
+			"properties": { "Name": "333 North Michigan Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5429,7 +5429,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "August Dewes House" },
+			"properties": { "Name": "August Dewes House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5449,7 +5449,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "American School of Correspondence" },
+			"properties": { "Name": "American School of Correspondence" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5475,7 +5475,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Stephen A. Douglas Memorial" },
+			"properties": { "Name": "Stephen A. Douglas Memorial" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5493,7 +5493,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Blackstone Hotel" },
+			"properties": { "Name": "Blackstone Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5511,7 +5511,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Myron Bachman House" },
+			"properties": { "Name": "Myron Bachman House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5530,7 +5530,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "K.A.M. Isaiah Israel Temple" },
+			"properties": { "Name": "K.A.M. Isaiah Israel Temple" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5564,7 +5564,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Pulaski Park Fieldhouse" },
+			"properties": { "Name": "Pulaski Park Fieldhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5633,7 +5633,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Carl Sandburg House" },
+			"properties": { "Name": "Carl Sandburg House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -5651,7 +5651,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Heald Square Monument" },
+			"properties": { "Name": "Heald Square Monument" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6049,7 +6049,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Milwaukee & St Paul Bridge" },
+			"properties": { "Name": "Milwaukee & St Paul Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6067,7 +6067,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Varnish Company Building" },
+			"properties": { "Name": "Chicago Varnish Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6087,7 +6087,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Oliver Building" },
+			"properties": { "Name": "Oliver Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6110,7 +6110,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Roberts Temple Church of God in Christ Building"
+				"Name": "Roberts Temple Church of God in Christ Building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -6131,7 +6131,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Ida B. Wells-Barnett House" },
+			"properties": { "Name": "Ida B. Wells-Barnett House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6151,7 +6151,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Former Chicago Historical Society Building" },
+			"properties": { "Name": "Former Chicago Historical Society Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6174,7 +6174,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Civic Opera Building" },
+			"properties": { "Name": "Civic Opera Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6195,7 +6195,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Congress Theater" },
+			"properties": { "Name": "Congress Theater" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6234,7 +6234,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "John Jacob Walser House" },
+			"properties": { "Name": "John Jacob Walser House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6254,7 +6254,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Whistle Stop Inn" },
+			"properties": { "Name": "Whistle Stop Inn" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6272,7 +6272,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Calumet National Bank Bldg" },
+			"properties": { "Name": "(Former) Calumet National Bank Bldg" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6290,7 +6290,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "6901 Oglesby Cooperative Apartment Building" },
+			"properties": { "Name": "6901 Oglesby Cooperative Apartment Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6309,7 +6309,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Gauler Twin House" },
+			"properties": { "Name": "Gauler Twin House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6327,7 +6327,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chapin and Gore Building" },
+			"properties": { "Name": "Chapin and Gore Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6350,7 +6350,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Gauler Twin House" },
+			"properties": { "Name": "Gauler Twin House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6370,7 +6370,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Yondorf Block and Hall" },
+			"properties": { "Name": "Yondorf Block and Hall" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6403,7 +6403,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Florsheim Shoe Company Building" },
+			"properties": { "Name": "Florsheim Shoe Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6454,7 +6454,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Woman's Athletic Club" },
+			"properties": { "Name": "Woman's Athletic Club" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6473,7 +6473,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago & Western Indiana  Railroad Bridge" },
+			"properties": { "Name": "Chicago & Western Indiana  Railroad Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6491,7 +6491,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Abraham Groesbeck House" },
+			"properties": { "Name": "Abraham Groesbeck House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6513,7 +6513,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Getty Tomb" },
+			"properties": { "Name": "Getty Tomb" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6551,7 +6551,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Public Library/Cultural Center" },
+			"properties": { "Name": "Chicago Public Library/Cultural Center" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6569,7 +6569,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Illinois and Michigan Canal" },
+			"properties": { "Name": "Illinois and Michigan Canal" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6592,7 +6592,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Charles Turzak House" },
+			"properties": { "Name": "Charles Turzak House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6610,7 +6610,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Carl Schurz High School" },
+			"properties": { "Name": "Carl Schurz High School" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6629,7 +6629,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 84, Truck 51" },
+			"properties": { "Name": "Engine Company 84, Truck 51" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6651,7 +6651,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Medinah Temple" },
+			"properties": { "Name": "Medinah Temple" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6673,7 +6673,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 129, Truck 50" },
+			"properties": { "Name": "Engine Company 129, Truck 50" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6693,7 +6693,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Ludington Building" },
+			"properties": { "Name": "Ludington Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6715,7 +6715,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "John Rath House" },
+			"properties": { "Name": "John Rath House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6737,7 +6737,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "American System-Built Houses" },
+			"properties": { "Name": "American System-Built Houses" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6757,7 +6757,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Lorado Taft's Midway Studios" },
+			"properties": { "Name": "Lorado Taft's Midway Studios" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6780,7 +6780,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Quinn Chapel" },
+			"properties": { "Name": "Quinn Chapel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6802,7 +6802,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "McCormick Double House" },
+			"properties": { "Name": "McCormick Double House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6821,7 +6821,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Veseman Building" },
+			"properties": { "Name": "Veseman Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6841,7 +6841,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Fullerton State Bank Bldg" },
+			"properties": { "Name": "(Former) Fullerton State Bank Bldg" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6861,7 +6861,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "First Church of Deliverance" },
+			"properties": { "Name": "First Church of Deliverance" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6881,7 +6881,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "James Charnley House" },
+			"properties": { "Name": "James Charnley House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6901,7 +6901,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Hyde Park Bank" },
+			"properties": { "Name": "(Former) Hyde Park Bank" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6924,7 +6924,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Melissa Ann Elam House" },
+			"properties": { "Name": "Melissa Ann Elam House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -6942,7 +6942,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Union Stock Yard Gate" },
+			"properties": { "Name": "Union Stock Yard Gate" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7106,7 +7106,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Peoples Gas-Irving Park Neighborhood Store" },
+			"properties": { "Name": "Peoples Gas-Irving Park Neighborhood Store" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7126,7 +7126,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Washington Block" },
+			"properties": { "Name": "Washington Block" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7144,7 +7144,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "R.R. Donnelley & Sons Co. Calumet Plant" },
+			"properties": { "Name": "R.R. Donnelley & Sons Co. Calumet Plant" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7177,7 +7177,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Emil Bach House" },
+			"properties": { "Name": "Emil Bach House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7197,7 +7197,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Uptown Theater" },
+			"properties": { "Name": "Uptown Theater" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7228,7 +7228,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Wendell Phillips High School" },
+			"properties": { "Name": "Wendell Phillips High School" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7253,7 +7253,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Inland Steel Building" },
+			"properties": { "Name": "Inland Steel Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7285,7 +7285,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Dearborn Street Station" },
+			"properties": { "Name": "Dearborn Street Station" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7303,7 +7303,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Samuel M. Nickerson House" },
+			"properties": { "Name": "Samuel M. Nickerson House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7321,7 +7321,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Kenna Apartments" },
+			"properties": { "Name": "Kenna Apartments" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7340,7 +7340,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Three Arts Club" },
+			"properties": { "Name": "Three Arts Club" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7364,7 +7364,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "John Raber House" },
+			"properties": { "Name": "John Raber House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7387,7 +7387,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Machinery Hall at Illinois Institute of Technology"
+				"Name": "Machinery Hall at Illinois Institute of Technology"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -7429,7 +7429,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Truevine Missionary Baptist Church Building" },
+			"properties": { "Name": "Truevine Missionary Baptist Church Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7457,7 +7457,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Field Building" },
+			"properties": { "Name": "Field Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7481,7 +7481,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Charles Hitchcock House" },
+			"properties": { "Name": "Charles Hitchcock House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7503,7 +7503,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "S. Pond Refectory/Men's & Ladies Comfort Station"
+				"Name": "S. Pond Refectory/Men's & Ladies Comfort Station"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -7526,7 +7526,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "LaSalle Street Cable Car Powerhouse" },
+			"properties": { "Name": "LaSalle Street Cable Car Powerhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7551,7 +7551,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "St Ignatius College Prep Building" },
+			"properties": { "Name": "St Ignatius College Prep Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7591,7 +7591,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "James Ward Public School" },
+			"properties": { "Name": "James Ward Public School" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7613,7 +7613,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Essanay Studios" },
+			"properties": { "Name": "Essanay Studios" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7634,7 +7634,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Humboldt Park Receptory Building and Stable" },
+			"properties": { "Name": "Humboldt Park Receptory Building and Stable" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7697,7 +7697,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Shedd Park Fieldhouse" },
+			"properties": { "Name": "Shedd Park Fieldhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7731,7 +7731,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Engine Company 5, Truck 2" },
+			"properties": { "Name": "Engine Company 5, Truck 2" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7751,7 +7751,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Alfred Caldwell Lily Pool" },
+			"properties": { "Name": "Alfred Caldwell Lily Pool" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7769,7 +7769,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Site of Fort Dearborn" },
+			"properties": { "Name": "Site of Fort Dearborn" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7788,7 +7788,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Pilgrim Baptist Church" },
+			"properties": { "Name": "Pilgrim Baptist Church" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7806,7 +7806,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago & Illinois Western Bridge" },
+			"properties": { "Name": "Chicago & Illinois Western Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7824,7 +7824,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Schlecht House" },
+			"properties": { "Name": "Schlecht House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7846,7 +7846,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "St. Gelasius Church Building" },
+			"properties": { "Name": "St. Gelasius Church Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7875,7 +7875,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Pennsylvania \"Eight Track\" Bridge" },
+			"properties": { "Name": "Pennsylvania \"Eight Track\" Bridge" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7920,7 +7920,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Henry B Clarke House" },
+			"properties": { "Name": "Henry B Clarke House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7942,7 +7942,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "First Baptist Congregational Church" },
+			"properties": { "Name": "First Baptist Congregational Church" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7970,7 +7970,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Edwin Colvin House" },
+			"properties": { "Name": "Edwin Colvin House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -7992,7 +7992,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "King-Nash House" },
+			"properties": { "Name": "King-Nash House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8014,7 +8014,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Leiter II Building" },
+			"properties": { "Name": "Leiter II Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8047,7 +8047,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Henry V. Peters House" },
+			"properties": { "Name": "Henry V. Peters House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8071,7 +8071,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Fine Arts Building" },
+			"properties": { "Name": "Fine Arts Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8095,7 +8095,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Gage Group" },
+			"properties": { "Name": "Gage Group" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8120,7 +8120,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Robert Lindblom Technical High Schoool building"
+				"Name": "Robert Lindblom Technical High Schoool building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -8189,7 +8189,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Blackstone Library" },
+			"properties": { "Name": "Blackstone Library" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8210,7 +8210,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Clarence Buckingham Memorial Fountain and Garden"
+				"Name": "Clarence Buckingham Memorial Fountain and Garden"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -8324,7 +8324,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Lake Shore & Michigan Southern Bridges (pair)" },
+			"properties": { "Name": "Lake Shore & Michigan Southern Bridges (pair)" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8355,7 +8355,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Thalia Hall" },
+			"properties": { "Name": "Thalia Hall" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8381,7 +8381,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "McGill House" },
+			"properties": { "Name": "McGill House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8417,7 +8417,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Building" },
+			"properties": { "Name": "Chicago Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8437,7 +8437,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Sydney A. Kent House" },
+			"properties": { "Name": "Sydney A. Kent House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8474,7 +8474,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Main Building at Illinois Institute of Technology"
+				"Name": "Main Building at Illinois Institute of Technology"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -8496,7 +8496,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Dr. Philip Weintraub House" },
+			"properties": { "Name": "Dr. Philip Weintraub House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8514,7 +8514,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "American Book Company" },
+			"properties": { "Name": "American Book Company" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8533,7 +8533,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "South Shore Cultural Center" },
+			"properties": { "Name": "South Shore Cultural Center" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8687,7 +8687,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Shoreland Hotel" },
+			"properties": { "Name": "Shoreland Hotel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8706,7 +8706,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Germania Club Building" },
+			"properties": { "Name": "Germania Club Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8724,7 +8724,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Garfield Park Fieldhouse" },
+			"properties": { "Name": "Garfield Park Fieldhouse" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -8987,7 +8987,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Vorwaerts Turner Hall" },
+			"properties": { "Name": "Vorwaerts Turner Hall" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9009,7 +9009,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Madonna Della Strada Chapel" },
+			"properties": { "Name": "Madonna Della Strada Chapel" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9102,7 +9102,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "George Cleveland Hall Branch Library" },
+			"properties": { "Name": "George Cleveland Hall Branch Library" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9120,7 +9120,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Gwendolyn Brooks House" },
+			"properties": { "Name": "Gwendolyn Brooks House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9139,7 +9139,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Richard Wright House" },
+			"properties": { "Name": "Richard Wright House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9157,7 +9157,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Lorraine Hansberry House" },
+			"properties": { "Name": "Lorraine Hansberry House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9177,7 +9177,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Griffiths-Burroughs House" },
+			"properties": { "Name": "Griffiths-Burroughs House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9199,7 +9199,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "860-880 Lake Shore Drive" },
+			"properties": { "Name": "860-880 Lake Shore Drive" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9219,7 +9219,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Old Republic Building" },
+			"properties": { "Name": "Old Republic Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9241,7 +9241,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Schlitz Brewery-Tied House" },
+			"properties": { "Name": "(Former) Schlitz Brewery-Tied House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9260,7 +9260,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Holden Block" },
+			"properties": { "Name": "Holden Block" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9284,7 +9284,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Spiegel Administration Building" },
+			"properties": { "Name": "Spiegel Administration Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9327,7 +9327,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz Brewery-Tied House@1801W.Division"
+				"Name": "(Former) Schlitz Brewery-Tied House@1801W.Division"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9347,7 +9347,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz BreweryTied-House@958W.69th St."
+				"Name": "(Former) Schlitz BreweryTied-House@958W.69th St."
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9371,7 +9371,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz BreweryTied-House@2159 W.Belmont"
+				"Name": "(Former) Schlitz BreweryTied-House@2159 W.Belmont"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9391,7 +9391,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz BreweryTied-House@3159NSouthport"
+				"Name": "(Former) Schlitz BreweryTied-House@3159NSouthport"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9411,7 +9411,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz BreweryTied-House@3456SWestern"
+				"Name": "(Former) Schlitz BreweryTied-House@3456SWestern"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9433,7 +9433,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "(Former) Schlitz Brewery Stable Building" },
+			"properties": { "Name": "(Former) Schlitz Brewery Stable Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9454,7 +9454,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz Brewery Tied-House@11400S.Front"
+				"Name": "(Former) Schlitz Brewery Tied-House@11400S.Front"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9474,7 +9474,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Schlitz BreweryTied-House@1944 N.Oakley"
+				"Name": "(Former) Schlitz BreweryTied-House@1944 N.Oakley"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9493,7 +9493,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Kenwood United Church of Christ" },
+			"properties": { "Name": "Kenwood United Church of Christ" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9513,7 +9513,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "White Castle # 16" },
+			"properties": { "Name": "White Castle # 16" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9531,7 +9531,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Ebenezer Missionary Baptist Church Building" },
+			"properties": { "Name": "Ebenezer Missionary Baptist Church Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9555,7 +9555,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "227 East Walton Place Apartment Building" },
+			"properties": { "Name": "227 East Walton Place Apartment Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9573,7 +9573,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Chicago Motor Club Building" },
+			"properties": { "Name": "Chicago Motor Club Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9593,7 +9593,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Harriet F. Rees House" },
+			"properties": { "Name": "Harriet F. Rees House" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9613,7 +9613,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Mid-City Trust and Savings Bank Buildings"
+				"Name": "(Former) Mid-City Trust and Savings Bank Buildings"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9637,7 +9637,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Pioneer Trust and Savings Bank Building"
+				"Name": "(Former) Pioneer Trust and Savings Bank Building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9660,7 +9660,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Riviera Motor Sales Company Building" },
+			"properties": { "Name": "Riviera Motor Sales Company Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9686,7 +9686,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Wrigley Building" },
+			"properties": { "Name": "Wrigley Building" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -9734,7 +9734,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "(Former) Sheridan Trust and Savings Bank Building"
+				"Name": "(Former) Sheridan Trust and Savings Bank Building"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -9774,7 +9774,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "Ukranian VIllage District Extension" },
+			"properties": { "Name": "Ukranian VIllage District Extension" },
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [

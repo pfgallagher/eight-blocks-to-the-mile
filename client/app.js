@@ -1,12 +1,6 @@
 import React from "react";
+import Map from "./components/Map";
 
-import { Navbar } from "./components";
-import Routes from "./routes";
-
-const App = () => (
-	<div>
-		<Routes />
-	</div>
-);
+const App = () => <Map />;
 
 export default App;

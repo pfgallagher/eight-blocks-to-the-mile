@@ -1,22 +1,11 @@
-import {
-	Map as LeafletMap,
-	GeoJSON,
-	TileLayer,
-	Marker,
-	Tooltip,
-} from "react-leaflet";
-import L from "leaflet";
+import { Map as LeafletMap, TileLayer } from "react-leaflet";
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import centroid from "@turf/centroid";
-import { featureEach } from "@turf/meta";
-import { getCoords } from "@turf/invariant";
-import MarkerClusterGroup from "react-leaflet-markercluster";
-import { GeoJSONFillable, Patterns } from "react-leaflet-geojson-patterns";
 import { fetchLayer, removeLayer } from "./../store/map";
 import { Sidebar, Tab } from "react-leaflet-sidetabs";
 import { FiHome, FiChevronRight, FiFilter } from "react-icons/fi";
 import availableLayers from "./../availableLayers";
+import Layer from "./Layer";
 
 class Map extends Component {
 	constructor() {
@@ -25,9 +14,9 @@ class Map extends Component {
 			lat: 41.8781,
 			lng: -87.6298,
 			zoom: 15,
-			coords: [],
 			collapsed: false,
 			selected: "home",
+			height: document.documentElement.clientHeight,
 		};
 	}
 	onClose() {
@@ -39,11 +28,42 @@ class Map extends Component {
 			selected: id,
 		});
 	}
+	resize = () =>
+		this.setState({
+			height: document.documentElement.clientHeight,
+		});
+
+	componentDidMount() {
+		window.addEventListener("resize", this.resize);
+	}
+
+	componentWillUnmount() {
+		window.removeEventListener("resize", this.resize);
+	}
 
 	render() {
 		const position = [this.state.lat, this.state.lng];
 		return (
 			<React.Fragment>
+				<LeafletMap
+					className="markercluster-map"
+					ref={this.mapRef}
+					center={position}
+					zoom={this.state.zoom}
+					maxZoom={18}
+					style={{
+						width: "100%",
+						height: `${this.state.height - 25}px`,
+					}}
+				>
+					<TileLayer
+						attribution="&copy; <a href=&quot;https://www.openstreetmap.org/copyright&quot;>OpenStreetMap</a> contributors &copy; <a href=&quot;https://carto.com/attributions&quot;>CARTO</a>"
+						url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png"
+					/>
+					{this.props.fetchedLayers.map(layer => (
+						<Layer key={layer.name} props={layer} />
+					))}
+				</LeafletMap>
 				<Sidebar
 					id="sidebar"
 					position="right"
@@ -53,14 +73,14 @@ class Map extends Component {
 					onOpen={this.onOpen.bind(this)}
 					onClose={this.onClose.bind(this)}
 				>
-					<Tab id="home" header="Home" icon={<FiHome />}>
-						<p>No place like home!</p>
+					<Tab id="home" header="Eight Blocks To The Mile" icon={<FiHome />}>
+						<p>Welcome! To get started, please click the filters tab.</p>
 					</Tab>
 					<Tab id="filters" header="Filters" icon={<FiFilter />}>
 						<div>
 							<div>
 								{availableLayers.map(layer => (
-									<React.Fragment key={layer[0]}>
+									<div key={layer[0]}>
 										<label htmlFor={layer[0]}>{layer[1]}</label>
 										<button
 											onClick={() => this.props.fetchLayer(`${layer[0]}`)}
@@ -75,83 +95,23 @@ class Map extends Component {
 										>
 											Remove
 										</button>
-									</React.Fragment>
+										<hr />
+									</div>
 								))}
 							</div>
 						</div>
 					</Tab>
 				</Sidebar>
-				<LeafletMap
-					className="markercluster-map"
-					ref={this.mapRef}
-					center={position}
-					zoom={this.state.zoom}
-					maxZoom={18}
-				>
-					<TileLayer
-						attribution="&copy; <a href=&quot;https://www.openstreetmap.org/copyright&quot;>OpenStreetMap</a> contributors &copy; <a href=&quot;https://carto.com/attributions&quot;>CARTO</a>"
-						url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png"
-					/>
-					{this.props.fetchedLayers[0] && (
-						<GeoJSON
-							data={
-								this.props.fetchedLayers[0] && this.props.fetchedLayers[0].data
-							}
-							onEachFeature={(feature, layer) => {
-								console.log(layer);
-								layer.bindTooltip("test!", {
-									sticky: true,
-								});
-							}}
-						/>
-					)}
-					{this.props.fetchedLayers[1] &&
-						this.props.fetchedLayers[1].data && (
-						<React.Fragment>
-							<GeoJSONFillable
-								style={feature => ({
-									color: "#FF0000",
-								})}
-								data={this.props.fetchedLayers[1].data}
-								onEachFeature={(feature, layer) => {
-									const [lng, lat] = centroid(feature).geometry.coordinates;
-									const latLngArr = [lat, lng];
-									const obj = L.latLng(latLngArr);
-									obj.name = feature.properties.Name;
-									this.setState(state => ({
-										coords: state.coords.concat(obj),
-									}));
-								}}
-							/>
-							<MarkerClusterGroup>
-								{this.props.fetchedLayers[1].data.features.map(el => {
-									// console.log(el);
-									const [lng, lat] = centroid(el).geometry.coordinates;
-									const latLngArr = [lat, lng];
-									const coords = L.latLng(latLngArr);
-									return (
-										<Marker key={el.properties.name} position={coords}>
-											<Tooltip position="auto" permanent="true">
-												{el.properties.Name}
-											</Tooltip>
-										</Marker>
-									);
-								})}
-									})}
-							</MarkerClusterGroup>
-						</React.Fragment>
-					)}
-				</LeafletMap>
 			</React.Fragment>
 		);
 	}
 }
 
-const mapStateToProps = (state, ownProps) => ({
+const mapStateToProps = state => ({
 	fetchedLayers: state.map,
 });
 
-const mapDispatchToProps = (dispatch, ownProps) => ({
+const mapDispatchToProps = dispatch => ({
 	fetchLayer: layer => {
 		dispatch(fetchLayer(layer));
 	},
